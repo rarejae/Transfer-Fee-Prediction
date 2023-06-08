@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib
-from datetime import date, timedelta
+from datetime import date
 
 
 # Load trained model and its metadata
@@ -54,7 +54,6 @@ def app():
             formatted_prediction = "€{:.2f}".format(prediction)
 
         st.success(f'Predicted Transfer Fee: {formatted_prediction}')
-
 
 
 if __name__ == '__main__':

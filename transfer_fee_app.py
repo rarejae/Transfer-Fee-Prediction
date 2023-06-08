@@ -13,7 +13,7 @@ def app():
     st.title('Transfer Fee Predictor')
 
     st.markdown('This app is designed to predict the transfer fee of a'
-                'footballer (soccer player) given his market value, hypothetical date of transfer,'
+                ' footballer (soccer player) given his market value, hypothetical date of transfer,'
                 ' and the expiry date of his current contract')
 
     # Obtain Market Value

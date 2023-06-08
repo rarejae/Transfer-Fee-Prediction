@@ -1,0 +1,501 @@
+name,position,country,season,market value,transfer fee,left,joined,old club league,new club league,old club league type,new club league type,age,contract remaining
+João Félix,Second Striker,Portugal,19/20,€70.00m,€127.20m,SL Benfica,Atlético de Madrid,Liga NOS,LaLiga,First Tier,First Tier,19 years 07 months 23 days,03 Years 11 Months 27 Days
+Antoine Griezmann,Second Striker,France,19/20,€130.00m,€120.00m,Atlético de Madrid,FC Barcelona,LaLiga,LaLiga,First Tier,First Tier,28 years 03 months 23 days,03 Years 11 Months 16 Days
+Eden Hazard,Left Winger,Belgium,19/20,€150.00m,€115.00m,Chelsea FC,Real Madrid,Premier League,LaLiga,First Tier,First Tier,28 years 05 months 24 days,11 Months 30 Days
+Harry Maguire,Centre-Back,England,19/20,€50.00m,€87.00m,Leicester City,Manchester United,Premier League,Premier League,First Tier,First Tier,26 years 05 months 00 days,03 Years 10 Months 25 Days
+Frenkie de Jong,Central Midfield,Netherlands,19/20,€85.00m,€86.00m,Ajax Amsterdam,FC Barcelona,Eredivisie,LaLiga,First Tier,First Tier,22 years 01 month 19 days,02 Years 11 Months 30 Days
+Matthijs de Ligt,Centre-Back,Netherlands,19/20,€75.00m,€85.50m,Ajax Amsterdam,Juventus FC,Eredivisie,Serie A,First Tier,First Tier,19 years 11 months 06 days,01 Years 11 Months 12 Days
+Lucas Hernández,Centre-Back,France,19/20,€70.00m,€80.00m,Atlético de Madrid,Bayern Munich,LaLiga,Bundesliga,First Tier,First Tier,23 years 04 months 17 days,04 Years 11 Months 30 Days
+Nicolas Pépé,Right Winger,Cote d'Ivoire,19/20,€65.00m,€80.00m,LOSC Lille,Arsenal FC,Ligue 1,Premier League,First Tier,First Tier,24 years 02 months 03 days,02 Years 10 Months 29 Days
+Romelu Lukaku,Centre-Forward,Belgium,19/20,€75.00m,€74.00m,Manchester United,Inter Milan,Premier League,Serie A,First Tier,First Tier,26 years 02 months 26 days,02 Years 10 Months 22 Days
+Rodri,Defensive Midfield,Spain,19/20,€80.00m,€70.00m,Atlético de Madrid,Manchester City,LaLiga,Premier League,First Tier,First Tier,23 years 12 days,03 Years 11 Months 26 Days
+João Cancelo,Right-Back,Portugal,19/20,€55.00m,€65.00m,Juventus FC,Manchester City,Serie A,Premier League,First Tier,First Tier,25 years 02 months 11 days,03 Years 10 Months 23 Days
+Luka Jovic,Centre-Forward,Serbia,19/20,€60.00m,€63.00m,Eintracht Frankfurt,Real Madrid,Bundesliga,LaLiga,First Tier,First Tier,21 years 06 months 09 days,03 Years 11 Months 28 Days
+Bruno Fernandes,Attacking Midfield,Portugal,19/20,€60.00m,€63.00m,Sporting CP,Manchester United,Liga NOS,Premier League,First Tier,First Tier,25 years 04 months 21 days,03 Years 05 Months 01 Days
+Tanguy Ndombélé,Central Midfield,France,19/20,€65.00m,€62.00m,Olympique Lyon,Tottenham Hotspur,Ligue 1,Premier League,First Tier,First Tier,22 years 06 months 04 days,03 Years 11 Months 28 Days
+Aaron Wan-Bissaka,Right-Back,England,19/20,€35.00m,€55.00m,Crystal Palace,Manchester United,Premier League,Premier League,First Tier,First Tier,21 years 07 months 05 days,02 Years 11 Months 30 Days
+Éder Militão,Centre-Back,Brazil,19/20,€50.00m,€50.00m,FC Porto,Real Madrid,Liga NOS,LaLiga,First Tier,First Tier,21 years 05 months 13 days,03 Years 11 Months 30 Days
+Sébastien Haller,Centre-Forward,Cote d'Ivoire,19/20,€40.00m,€50.00m,Eintracht Frankfurt,West Ham United,Bundesliga,Premier League,First Tier,First Tier,25 years 25 days,01 Years 11 Months 13 Days
+Ferland Mendy,Left-Back,France,19/20,€30.00m,€48.00m,Olympique Lyon,Real Madrid,Ligue 1,LaLiga,First Tier,First Tier,24 years 23 days,03 Years 11 Months 30 Days
+Hirving Lozano,Right Winger,Mexico,19/20,€40.00m,€45.00m,PSV Eindhoven,SSC Napoli,Eredivisie,Serie A,First Tier,First Tier,24 years 24 days,03 Years 10 Months 07 Days
+Rodrygo,Right Winger,Brazil,19/20,€40.00m,€45.00m,Santos FC,Real Madrid,Campeonato Brasileiro Série A,LaLiga,First Tier,First Tier,18 years 05 months 22 days,03 Years 06 Months 00 Days
+Youri Tielemans,Central Midfield,Belgium,19/20,€38.00m,€45.00m,AS Monaco,Leicester City,Ligue 1,Premier League,First Tier,First Tier,22 years 02 months 01 day,02 Years 11 Months 22 Days
+Mateo Kovacic,Central Midfield,Croatia,19/20,€35.00m,€45.00m,Real Madrid,Chelsea FC,LaLiga,Premier League,First Tier,First Tier,25 years 01 month 25 days,01 Years 11 Months 30 Days
+Joelinton,Attacking Midfield,Brazil,19/20,€35.00m,€44.00m,TSG 1899 Hoffenheim,Newcastle United,Bundesliga,Premier League,First Tier,First Tier,22 years 11 months 09 days,02 Years 11 Months 07 Days
+Wissam Ben Yedder,Centre-Forward,France,19/20,€40.00m,€40.00m,Sevilla FC,AS Monaco,LaLiga,Ligue 1,First Tier,First Tier,29 years 02 days,01 Years 10 Months 16 Days
+Malcom,Right Winger,Brazil,19/20,€40.00m,€40.00m,FC Barcelona,Zenit St. Petersburg,LaLiga,Premier Liga,First Tier,First Tier,22 years 05 months 07 days,03 Years 10 Months 28 Days
+Raúl Jiménez,Centre-Forward,Mexico,19/20,€35.00m,€38.00m,SL Benfica,Wolverhampton Wanderers,Liga NOS,Premier League,First Tier,First Tier,28 years 01 month 26 days,01 Years 11 Months 30 Days
+Danilo,Right-Back,Brazil,19/20,€20.00m,€37.00m,Manchester City,Juventus FC,Premier League,Serie A,First Tier,First Tier,28 years 23 days,04 Years 10 Months 23 Days
+Konstantinos Manolas,Centre-Back,Greece,19/20,€45.00m,€36.00m,AS Roma,SSC Napoli,Serie A,Serie A,First Tier,First Tier,28 years 17 days,02 Years 11 Months 30 Days
+Benjamin Pavard,Right-Back,France,19/20,€30.00m,€35.00m,VfB Stuttgart,Bayern Munich,2. Bundesliga,Bundesliga,Second Tier,First Tier,23 years 03 months 03 days,01 Years 11 Months 30 Days
+Dejan Kulusevski,Right Winger,Sweden,19/20,€25.00m,€35.00m,Atalanta BC,Juventus FC,Serie A,Serie A,First Tier,First Tier,19 years 08 months 08 days,03 Years 05 Months 28 Days
+Jasper Cillessen,Goalkeeper,Netherlands,19/20,€18.00m,€35.00m,FC Barcelona,Valencia CF,LaLiga,LaLiga,First Tier,First Tier,30 years 02 months 09 days,01 Years 11 Months 30 Days
+Jules Koundé,Centre-Back,France,19/20,€15.00m,€35.00m,FC Girondins Bordeaux,Sevilla FC,Ligue 1,LaLiga,First Tier,First Tier,20 years 07 months 21 days,03 Years 11 Months 27 Days
+Ayoze Pérez,Second Striker,Spain,19/20,€20.00m,€33.40m,Newcastle United,Leicester City,Premier League,Premier League,First Tier,First Tier,25 years 11 months 05 days,01 Years 11 Months 26 Days
+Abdou Diallo,Centre-Back,Senegal,19/20,€35.00m,€32.00m,Borussia Dortmund,Paris Saint-Germain,Bundesliga,Ligue 1,First Tier,First Tier,23 years 02 months 12 days,03 Years 11 Months 14 Days
+Franck Kessié,Central Midfield,Cote d'Ivoire,19/20,€33.00m,€32.00m,Atalanta BC,AC Milan,Serie A,Serie A,First Tier,First Tier,22 years 06 months 12 days,01 Years 11 Months 30 Days
+Kerem Demirbay,Central Midfield,Germany,19/20,€32.00m,€32.00m,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Bundesliga,Bundesliga,First Tier,First Tier,25 years 11 months 28 days,02 Years 11 Months 30 Days
+Cristian Romero,Centre-Back,Argentina,19/20,€15.00m,€31.50m,Genoa CFC,Juventus FC,Serie A,Serie A,First Tier,First Tier,21 years 02 months 15 days,03 Years 11 Months 18 Days
+Mats Hummels,Centre-Back,Germany,19/20,€35.00m,€30.50m,Bayern Munich,Borussia Dortmund,Bundesliga,Bundesliga,First Tier,First Tier,30 years 06 months 15 days,01 Years 11 Months 30 Days
+Alex Iwobi,Attacking Midfield,Nigeria,19/20,€25.00m,€30.40m,Arsenal FC,Everton FC,Premier League,Premier League,First Tier,First Tier,23 years 03 months 05 days,02 Years 10 Months 22 Days
+Steven Bergwijn,Left Winger,Netherlands,19/20,€35.00m,€30.00m,PSV Eindhoven,Tottenham Hotspur,Eredivisie,Premier League,First Tier,First Tier,22 years 03 months 21 days,03 Years 05 Months 01 Days
+Ismaïla Sarr,Right Winger,Senegal,19/20,€30.00m,€30.00m,Stade Rennais FC,Watford FC,Ligue 1,Premier League,First Tier,First Tier,21 years 05 months 14 days,01 Years 10 Months 22 Days
+Gelson Martins,Right Winger,Portugal,19/20,€28.00m,€30.00m,Atlético de Madrid,AS Monaco,LaLiga,Ligue 1,First Tier,First Tier,24 years 01 month 20 days,03 Years 11 Months 30 Days
+Reinier,Attacking Midfield,Brazil,19/20,€25.00m,€30.00m,CR Flamengo,Real Madrid,Campeonato Brasileiro Série A,LaLiga,First Tier,First Tier,18 years 01 day,04 Years 09 Months 11 Days
+Idrissa Gueye,Central Midfield,Senegal,19/20,€25.00m,€30.00m,Everton FC,Paris Saint-Germain,Premier League,Ligue 1,First Tier,First Tier,29 years 10 months 04 days,02 Years 11 Months 00 Days
+Marcos Llorente,Central Midfield,Spain,19/20,€20.00m,€30.00m,Real Madrid,Atlético de Madrid,LaLiga,LaLiga,First Tier,First Tier,24 years 05 months 01 day,01 Years 11 Months 30 Days
+William Saliba,Centre-Back,France,19/20,€12.00m,€30.00m,AS Saint-Étienne,Arsenal FC,Ligue 1,Premier League,First Tier,First Tier,18 years 04 months 01 day,03 Years 11 Months 05 Days
+Leonardo Spinazzola,Left-Back,Italy,19/20,€15.00m,€29.50m,Juventus FC,AS Roma,Serie A,Serie A,First Tier,First Tier,26 years 03 months 06 days,02 Years 11 Months 30 Days
+Rafael Leão,Left Winger,Portugal,19/20,€15.00m,€29.50m,LOSC Lille,AC Milan,Ligue 1,Serie A,First Tier,First Tier,20 years 01 month 22 days,03 Years 10 Months 29 Days
+Dani Olmo,Attacking Midfield,Spain,19/20,€35.00m,€29.00m,GNK Dinamo Zagreb,RB Leipzig,1.HNL,Bundesliga,First Tier,First Tier,21 years 08 months 18 days,01 Years 05 Months 05 Days
+Borja Iglesias,Centre-Forward,Spain,19/20,€28.00m,€28.00m,RCD Espanyol Barcelona,Real Betis Balompié,LaLiga,LaLiga,First Tier,First Tier,26 years 06 months 28 days,02 Years 10 Months 16 Days
+Pablo Fornals,Attacking Midfield,Spain,19/20,€25.00m,€28.00m,Villarreal CF,West Ham United,LaLiga,Premier League,First Tier,First Tier,23 years 04 months 09 days,02 Years 11 Months 30 Days
+Moise Kean,Centre-Forward,Italy,19/20,€40.00m,€27.50m,Juventus FC,Everton FC,Serie A,Premier League,First Tier,First Tier,19 years 05 months 07 days,10 Months 26 Days
+Christian Eriksen,Central Midfield,Denmark,19/20,€90.00m,€27.00m,Tottenham Hotspur,Inter Milan,Premier League,Serie A,First Tier,First Tier,27 years 11 months 14 days,05 Months 02 Days
+Ryan Sessegnon,Left Midfield,England,19/20,€35.00m,€27.00m,Fulham FC,Tottenham Hotspur,Championship,Premier League,Second Tier,First Tier,19 years 02 months 21 days,10 Months 22 Days
+Kieran Tierney,Left-Back,Scotland,19/20,€12.50m,€27.00m,Celtic FC,Arsenal FC,Scottish Premiership,Premier League,First Tier,First Tier,22 years 02 months 03 days,03 Years 09 Months 23 Days
+Alex Meret,Goalkeeper,Italy,19/20,€25.00m,€26.00m,Udinese Calcio,SSC Napoli,Serie A,Serie A,First Tier,First Tier,22 years 03 months 09 days,02 Years 11 Months 30 Days
+Neto,Goalkeeper,Brazil,19/20,€18.00m,€26.00m,Valencia CF,FC Barcelona,LaLiga,LaLiga,First Tier,First Tier,29 years 11 months 12 days,01 Years 11 Months 30 Days
+Thorgan Hazard,Left Winger,Belgium,19/20,€38.00m,€25.50m,Borussia Mönchengladbach,Borussia Dortmund,Bundesliga,Bundesliga,First Tier,First Tier,26 years 03 months 02 days,11 Months 30 Days
+Nico Schulz,Left-Back,Germany,19/20,€25.00m,€25.50m,TSG 1899 Hoffenheim,Borussia Dortmund,Bundesliga,Bundesliga,First Tier,First Tier,26 years 02 months 30 days,01 Years 11 Months 30 Days
+Danny Ings,Centre-Forward,England,19/20,€15.00m,€25.10m,Liverpool FC,Southampton FC,Premier League,Premier League,First Tier,First Tier,26 years 11 months 08 days,11 Months 30 Days
+Julian Brandt,Attacking Midfield,Germany,19/20,€50.00m,€25.00m,Bayer 04 Leverkusen,Borussia Dortmund,Bundesliga,Bundesliga,First Tier,First Tier,23 years 01 month 29 days,01 Years 11 Months 30 Days
+Marko Arnautovic,Centre-Forward,Austria,19/20,€35.00m,€25.00m,West Ham United,Shanghai SIPG,Premier League,Chinese Super League,First Tier,First Tier,30 years 02 months 19 days,03 Years 11 Months 22 Days
+Jean-Philippe Gbamin,Defensive Midfield,Cote d'Ivoire,19/20,€28.00m,€25.00m,1.FSV Mainz 05,Everton FC,Bundesliga,Premier League,First Tier,First Tier,23 years 10 months 08 days,03 Years 10 Months 28 Days
+André Gomes,Central Midfield,Portugal,19/20,€28.00m,€25.00m,FC Barcelona,Everton FC,LaLiga,Premier League,First Tier,First Tier,25 years 11 months 01 day,01 Years 11 Months 30 Days
+Rony Lopes,Right Winger,Portugal,19/20,€25.00m,€25.00m,AS Monaco,Sevilla FC,Ligue 1,LaLiga,First Tier,First Tier,23 years 07 months 17 days,02 Years 10 Months 16 Days
+Mario Hermoso,Centre-Back,Spain,19/20,€25.00m,€25.00m,RCD Espanyol Barcelona,Atlético de Madrid,LaLiga,LaLiga,First Tier,First Tier,24 years 01 month 00 days,11 Months 12 Days
+Wesley Moraes,Centre-Forward,Brazil,19/20,€20.00m,€25.00m,Club Brugge KV,Aston Villa,Jupiler Pro League,Premier League,First Tier,First Tier,22 years 07 months 07 days,03 Years 11 Months 30 Days
+Lucas Tousart,Defensive Midfield,France,19/20,€20.00m,€25.00m,Olympique Lyon,Hertha BSC,Ligue 1,Bundesliga,First Tier,First Tier,22 years 08 months 29 days,03 Years 05 Months 03 Days
+Jeff Reine-Adélaïde,Attacking Midfield,France,19/20,€11.00m,€25.00m,Angers SCO,Olympique Lyon,Ligue 1,Ligue 1,First Tier,First Tier,21 years 06 months 28 days,02 Years 10 Months 16 Days
+Krzysztof Piatek,Centre-Forward,Poland,19/20,€32.00m,€24.00m,AC Milan,Hertha BSC,Serie A,Bundesliga,First Tier,First Tier,24 years 06 months 30 days,03 Years 05 Months 00 Days
+Joachim Andersen,Centre-Back,Denmark,19/20,€25.00m,€24.00m,UC Sampdoria,Olympique Lyon,Serie A,Ligue 1,First Tier,First Tier,23 years 01 month 11 days,02 Years 11 Months 18 Days
+Pau López,Goalkeeper,Spain,19/20,€20.00m,€23.50m,Real Betis Balompié,AS Roma,LaLiga,Serie A,First Tier,First Tier,24 years 06 months 27 days,03 Years 11 Months 20 Days
+Paco Alcácer,Centre-Forward,Spain,19/20,€42.00m,€23.00m,Borussia Dortmund,Villarreal CF,Bundesliga,LaLiga,First Tier,First Tier,26 years 05 months 00 days,03 Years 05 Months 00 Days
+Sander Berge,Central Midfield,Norway,19/20,€22.00m,€23.00m,KRC Genk,Sheffield United,Jupiler Pro League,Premier League,First Tier,First Tier,21 years 11 months 16 days,01 Years 05 Months 00 Days
+Nikola Vlasic,Attacking Midfield,Croatia,19/20,€20.00m,€23.00m,Everton FC,CSKA Moscow,Premier League,Premier Liga,First Tier,First Tier,21 years 08 months 27 days,02 Years 11 Months 30 Days
+Theo Hernández,Left-Back,France,19/20,€15.00m,€22.80m,Real Madrid,AC Milan,LaLiga,Serie A,First Tier,First Tier,21 years 09 months 00 days,03 Years 11 Months 24 Days
+Raúl de Tomás,Centre-Forward,Spain,19/20,€15.00m,€22.50m,SL Benfica,RCD Espanyol Barcelona,Liga NOS,LaLiga,First Tier,First Tier,25 years 02 months 23 days,04 Years 05 Months 21 Days
+Valentino Lazaro,Right-Back,Austria,19/20,€17.00m,€22.40m,Hertha BSC,Inter Milan,Bundesliga,Serie A,First Tier,First Tier,23 years 03 months 07 days,01 Years 11 Months 30 Days
+Victor Osimhen,Centre-Forward,Nigeria,19/20,€13.00m,€22.40m,RSC Charleroi,LOSC Lille,Jupiler Pro League,Ligue 1,First Tier,First Tier,20 years 07 months 03 days,
+Luka Jovic,Centre-Forward,Serbia,19/20,€60.00m,€22.34m,SL Benfica,Eintracht Frankfurt,Liga NOS,Bundesliga,First Tier,First Tier,21 years 06 months 08 days,01 Years 11 Months 30 Days
+Tyrone Mings,Centre-Back,England,19/20,€5.00m,€22.30m,AFC Bournemouth,Aston Villa,Premier League,Premier League,First Tier,First Tier,26 years 03 months 25 days,02 Years 11 Months 22 Days
+Adam Webster,Centre-Back,England,19/20,€9.00m,€22.22m,Bristol City,Brighton & Hove Albion,Championship,Premier League,Second Tier,First Tier,24 years 06 months 30 days,02 Years 10 Months 27 Days
+Giovani Lo Celso,Central Midfield,Argentina,19/20,€50.00m,€22.00m,Paris Saint-Germain,Real Betis Balompié,Ligue 1,LaLiga,First Tier,First Tier,23 years 02 months 22 days,01 Years 11 Months 30 Days
+Kieran Trippier,Right-Back,England,19/20,€35.00m,€22.00m,Tottenham Hotspur,Atlético de Madrid,Premier League,LaLiga,First Tier,First Tier,28 years 09 months 28 days,02 Years 11 Months 13 Days
+Thiago Mendes,Defensive Midfield,Brazil,19/20,€25.00m,€22.00m,LOSC Lille,Olympique Lyon,Ligue 1,Ligue 1,First Tier,First Tier,27 years 03 months 18 days,02 Years 11 Months 27 Days
+Bryan Cristante,Defensive Midfield,Italy,19/20,€25.00m,€22.00m,Atalanta BC,AS Roma,Serie A,Serie A,First Tier,First Tier,24 years 03 months 28 days,03 Years 11 Months 30 Days
+Luca Pellegrini,Left-Back,Italy,19/20,€5.00m,€22.00m,AS Roma,Juventus FC,Serie A,Serie A,First Tier,First Tier,20 years 03 months 24 days,02 Years 11 Months 30 Days
+Renan Lodi,Left-Back,Brazil,19/20,€4.00m,€21.75m,Club Athletico Paranaense,Atlético de Madrid,Campeonato Brasileiro Série A,LaLiga,First Tier,First Tier,21 years 02 months 29 days,03 Years 05 Months 24 Days
+Jarrod Bowen,Right Winger,England,19/20,€10.00m,€21.30m,Hull City,West Ham United,Championship,Premier League,Second Tier,First Tier,23 years 01 month 11 days,04 Months 30 Days
+Luis Muriel,Centre-Forward,Colombia,19/20,€13.00m,€21.20m,Sevilla FC,Atalanta BC,LaLiga,Serie A,First Tier,First Tier,28 years 02 months 15 days,02 Years 11 Months 30 Days
+Matteo Politano,Right Winger,Italy,19/20,€30.00m,€21.10m,US Sassuolo,Inter Milan,Serie A,Serie A,First Tier,First Tier,25 years 10 months 28 days,02 Years 11 Months 30 Days
+Paco Alcácer,Centre-Forward,Spain,19/20,€37.00m,€21.00m,FC Barcelona,Borussia Dortmund,LaLiga,Bundesliga,First Tier,First Tier,25 years 10 months 01 day,01 Years 11 Months 30 Days
+Stanislav Lobotka,Defensive Midfield,Slovakia,19/20,€20.00m,€21.00m,Celta de Vigo,SSC Napoli,LaLiga,Serie A,First Tier,First Tier,25 years 01 month 21 days,03 Years 05 Months 15 Days
+Amadou Diawara,Defensive Midfield,Guinea,19/20,€15.00m,€21.00m,SSC Napoli,AS Roma,Serie A,Serie A,First Tier,First Tier,21 years 11 months 14 days,01 Years 11 Months 30 Days
+Raphinha,Right Winger,Brazil,19/20,€8.00m,€21.00m,Sporting CP,Stade Rennais FC,Liga NOS,Ligue 1,First Tier,First Tier,22 years 08 months 19 days,03 Years 09 Months 28 Days
+Kasper Dolberg,Centre-Forward,Denmark,19/20,€18.00m,€20.50m,Ajax Amsterdam,OGC Nice,Eredivisie,Ligue 1,First Tier,First Tier,21 years 10 months 23 days,02 Years 10 Months 01 Days
+Edmond Tapsoba,Centre-Back,Burkina Faso,19/20,€4.50m,€20.20m,Vitória Guimarães SC,Bayer 04 Leverkusen,Liga NOS,Bundesliga,First Tier,First Tier,20 years 11 months 29 days,02 Years 04 Months 30 Days
+Erling Haaland,Centre-Forward,Norway,19/20,€45.00m,€20.00m,Red Bull Salzburg,Borussia Dortmund,Bundesliga,Bundesliga,First Tier,First Tier,19 years 05 months 11 days,03 Years 05 Months 29 Days
+Junior Firpo,Left-Back,Dominican Republic,19/20,€25.00m,€20.00m,Real Betis Balompié,FC Barcelona,LaLiga,LaLiga,First Tier,First Tier,22 years 11 months 13 days,03 Years 10 Months 26 Days
+Julian Weigl,Defensive Midfield,Germany,19/20,€23.00m,€20.00m,Borussia Dortmund,SL Benfica,Bundesliga,Liga NOS,First Tier,First Tier,24 years 03 months 24 days,01 Years 05 Months 29 Days
+Felipe,Centre-Back,Brazil,19/20,€20.00m,€20.00m,FC Porto,Atlético de Madrid,Liga NOS,LaLiga,First Tier,First Tier,30 years 01 month 15 days,01 Years 11 Months 30 Days
+Raúl de Tomás,Centre-Forward,Spain,19/20,€20.00m,€20.00m,Real Madrid,SL Benfica,LaLiga,Liga NOS,First Tier,First Tier,24 years 08 months 16 days,03 Years 11 Months 27 Days
+Bruno Guimarães,Defensive Midfield,Brazil,19/20,€20.00m,€20.00m,Club Athletico Paranaense,Olympique Lyon,Campeonato Brasileiro Série A,Ligue 1,First Tier,First Tier,22 years 02 months 14 days,03 Years 02 Days
+Dodi Lukébakio,Right Winger,Belgium,19/20,€18.00m,€20.00m,Watford FC,Hertha BSC,Premier League,Bundesliga,First Tier,First Tier,21 years 10 months 08 days,02 Years 10 Months 29 Days
+Renato Sanches,Central Midfield,Portugal,19/20,€18.00m,€20.00m,Bayern Munich,LOSC Lille,Bundesliga,Ligue 1,First Tier,First Tier,22 years 05 days,01 Years 10 Months 07 Days
+Emil Audero,Goalkeeper,Italy,19/20,€15.00m,€20.00m,Juventus FC,UC Sampdoria,Serie A,Serie A,First Tier,First Tier,22 years 05 months 13 days,01 Years 11 Months 30 Days
+Maximilian Philipp,Second Striker,Germany,19/20,€13.00m,€20.00m,Borussia Dortmund,Dinamo Moscow,Bundesliga,Premier Liga,First Tier,First Tier,25 years 05 months 11 days,02 Years 10 Months 21 Days
+Youssef En-Nesyri,Centre-Forward,Morocco,19/20,€12.00m,€20.00m,CD Leganés,Sevilla FC,LaLiga,LaLiga,First Tier,First Tier,22 years 07 months 15 days,03 Years 05 Months 14 Days
+Nabil Fekir,Attacking Midfield,France,19/20,€60.00m,€19.75m,Olympique Lyon,Real Betis Balompié,Ligue 1,LaLiga,First Tier,First Tier,26 years 05 days,11 Months 07 Days
+Daniel Podence,Left Winger,Portugal,19/20,€6.00m,€19.60m,Olympiacos Piraeus,Wolverhampton Wanderers,Super League 1,Premier League,First Tier,First Tier,24 years 03 months 09 days,03 Years 05 Months 00 Days
+Merih Demiral,Centre-Back,Turkey,19/20,€15.00m,€19.50m,US Sassuolo,Juventus FC,Serie A,Serie A,First Tier,First Tier,21 years 04 months 00 days,03 Years 11 Months 25 Days
+Sofyan Amrabat,Defensive Midfield,Morocco,19/20,€10.00m,€19.50m,Hellas Verona,ACF Fiorentina,Serie A,Serie A,First Tier,First Tier,23 years 05 months 09 days,
+Dennis Praet,Central Midfield,Belgium,19/20,€24.00m,€19.20m,UC Sampdoria,Leicester City,Serie A,Premier League,First Tier,First Tier,25 years 02 months 25 days,01 Years 10 Months 22 Days
+Oliver McBurnie,Centre-Forward,Scotland,19/20,€8.00m,€19.10m,Swansea City,Sheffield United,Championship,Premier League,Second Tier,First Tier,23 years 01 month 29 days,
+Yusuf Yazici,Attacking Midfield,Turkey,19/20,€13.00m,€18.50m,Trabzonspor,LOSC Lille,Süper Lig,Ligue 1,First Tier,First Tier,22 years 06 months 08 days,02 Years 10 Months 24 Days
+Salomón Rondón,Centre-Forward,Venezuela,19/20,€15.00m,€18.27m,West Bromwich Albion,Dalian Professional,Championship,Chinese Super League,Second Tier,First Tier,29 years 10 months 03 days,
+Pablo Sarabia,Right Winger,Spain,19/20,€40.00m,€18.00m,Sevilla FC,Paris Saint-Germain,LaLiga,Ligue 1,First Tier,First Tier,27 years 01 month 21 days,11 Months 28 Days
+Patrick Cutrone,Centre-Forward,Italy,19/20,€28.00m,€18.00m,AC Milan,Wolverhampton Wanderers,Serie A,Premier League,First Tier,First Tier,21 years 06 months 27 days,03 Years 11 Months 00 Days
+Allan Saint-Maximin,Left Winger,France,19/20,€25.00m,€18.00m,OGC Nice,Newcastle United,Ligue 1,Premier League,First Tier,First Tier,22 years 04 months 21 days,02 Years 10 Months 28 Days
+Ademola Lookman,Second Striker,Nigeria,19/20,€20.00m,€18.00m,Everton FC,RB Leipzig,Premier League,Bundesliga,First Tier,First Tier,21 years 09 months 05 days,01 Years 11 Months 05 Days
+Guillermo Maripán,Centre-Back,Chile,19/20,€15.00m,€18.00m,Deportivo Alavés,AS Monaco,LaLiga,Ligue 1,First Tier,First Tier,25 years 03 months 18 days,01 Years 10 Months 06 Days
+Aurélien Tchouaméni,Defensive Midfield,France,19/20,€14.00m,€18.00m,FC Girondins Bordeaux,AS Monaco,Ligue 1,Ligue 1,First Tier,First Tier,20 years 02 days,02 Years 05 Months 01 Days
+Matheus Cunha,Centre-Forward,Brazil,19/20,€13.00m,€18.00m,RB Leipzig,Hertha BSC,Bundesliga,Bundesliga,First Tier,First Tier,20 years 08 months 04 days,03 Years 04 Months 30 Days
+Martin Braithwaite,Centre-Forward,Denmark,19/20,€10.00m,€18.00m,CD Leganés,FC Barcelona,LaLiga,LaLiga,First Tier,First Tier,28 years 08 months 15 days,03 Years 04 Months 10 Days
+Guus Til,Attacking Midfield,Netherlands,19/20,€6.00m,€18.00m,AZ Alkmaar,Spartak Moscow,Eredivisie,Premier Liga,First Tier,First Tier,21 years 07 months 14 days,03 Years 10 Months 25 Days
+Pedro Neto,Right Winger,Portugal,19/20,€2.50m,€17.90m,SS Lazio,Wolverhampton Wanderers,Serie A,Premier League,First Tier,First Tier,19 years 04 months 24 days,02 Years 10 Months 28 Days
+Daniel James,Right Winger,Wales,19/20,€12.00m,€17.80m,Swansea City,Manchester United,Championship,Premier League,Second Tier,First Tier,21 years 07 months 21 days,11 Months 30 Days
+Gabriel Barbosa,Centre-Forward,Brazil,19/20,€23.00m,€17.50m,Inter Milan,CR Flamengo,Serie A,Campeonato Brasileiro Série A,First Tier,First Tier,23 years 05 months 01 day,02 Years 04 Months 30 Days
+Pedri,Central Midfield,Spain,19/20,-,€17.50m,UD Las Palmas,FC Barcelona,LaLiga2,LaLiga,Second Tier,First Tier,16 years 09 months 08 days,04 Years 09 Months 28 Days
+Ismaël Bennacer,Defensive Midfield,Algeria,19/20,€12.00m,€17.20m,Empoli FC ,AC Milan,Serie B,Serie A,Second Tier,First Tier,21 years 08 months 04 days,01 Years 10 Months 26 Days
+Exequiel Palacios,Central Midfield,Argentina,19/20,€25.00m,€17.00m,CA River Plate,Bayer 04 Leverkusen,Copa de la Liga Profesional de Fútbol,Bundesliga,League Cup,First Tier,21 years 02 months 27 days,01 Years 05 Months 29 Days
+Munas Dabbur,Centre-Forward,Israel,19/20,€15.00m,€17.00m,Red Bull Salzburg,Sevilla FC,Bundesliga,LaLiga,First Tier,First Tier,27 years 01 month 17 days,01 Years 11 Months 30 Days
+Carlos Vinícius,Centre-Forward,Brazil,19/20,€7.00m,€17.00m,SSC Napoli,SL Benfica,Serie A,Liga NOS,First Tier,First Tier,24 years 03 months 25 days,03 Years 11 Months 10 Days
+Douglas Luiz,Central Midfield,Brazil,19/20,€2.50m,€16.80m,Manchester City,Aston Villa,Premier League,Premier League,First Tier,First Tier,21 years 02 months 16 days,02 Years 11 Months 05 Days
+Ché Adams,Centre-Forward,Scotland,19/20,€7.00m,€16.70m,Birmingham City,Southampton FC,Championship,Premier League,Second Tier,First Tier,22 years 11 months 18 days,02 Years 11 Months 30 Days
+Andrea Petagna,Centre-Forward,Italy,19/20,€18.00m,€16.60m,SPAL,SSC Napoli,Serie A,Serie A,First Tier,First Tier,24 years 07 months 00 days,03 Years 05 Months 00 Days
+Stefano Sturaro,Central Midfield,Italy,19/20,€10.00m,€16.50m,Juventus FC,Genoa CFC,Serie A,Serie A,First Tier,First Tier,26 years 03 months 22 days,01 Years 11 Months 30 Days
+Philip Billing,Central Midfield,Denmark,19/20,€7.00m,€16.50m,Huddersfield Town,AFC Bournemouth,Championship,Premier League,Second Tier,First Tier,23 years 01 month 18 days,11 Months 01 Days
+Arnaut Danjuma,Left Winger,Netherlands,19/20,€12.00m,€16.46m,Club Brugge KV,AFC Bournemouth,Jupiler Pro League,Premier League,First Tier,First Tier,22 years 06 months 01 day,02 Years 10 Months 29 Days
+Nahitan Nández,Central Midfield,Uruguay,19/20,€18.00m,€16.20m,CA Boca Juniors,Cagliari Calcio,Superliga,Serie A,First Tier,First Tier,23 years 07 months 12 days,10 Months 21 Days
+Eljif Elmas,Central Midfield,North Macedonia,19/20,€10.00m,€16.20m,Fenerbahce,SSC Napoli,Süper Lig,Serie A,First Tier,First Tier,19 years 10 months 00 days,02 Years 11 Months 06 Days
+Giovani Lo Celso,Central Midfield,Argentina,19/20,€50.00m,Loan fee:€16.00m,Real Betis Balompié,Tottenham Hotspur,LaLiga,Premier League,First Tier,First Tier,23 years 03 months 30 days,03 Years 10 Months 22 Days
+Stephan El Shaarawy,Left Winger,Italy,19/20,€30.00m,€16.00m,AS Roma,Shanghai Greenland Shenhua,Serie A,Chinese Super League,First Tier,First Tier,26 years 08 months 11 days,11 Months 22 Days
+Quincy Promes,Left Winger,Netherlands,19/20,€18.00m,€15.70m,Sevilla FC,Ajax Amsterdam,LaLiga,Eredivisie,First Tier,First Tier,27 years 05 months 27 days,03 Years 11 Months 30 Days
+Moussa Djenepo,Left Winger,Mali,19/20,€12.00m,€15.70m,Standard Liège,Southampton FC,Jupiler Pro League,Premier League,First Tier,First Tier,21 years 16 days,
+Neal Maupay,Centre-Forward,France,19/20,€12.00m,€15.56m,Brentford FC,Brighton & Hove Albion,Championship,Premier League,Second Tier,First Tier,22 years 11 months 22 days,01 Years 10 Months 25 Days
+Leandro Trossard,Left Winger,Belgium,19/20,€16.00m,€15.56m,KRC Genk,Brighton & Hove Albion,Jupiler Pro League,Premier League,First Tier,First Tier,24 years 06 months 27 days,01 Years 11 Months 30 Days
+Matt Targett,Left-Back,England,19/20,€7.00m,€15.50m,Southampton FC,Aston Villa,Premier League,Premier League,First Tier,First Tier,23 years 09 months 13 days,02 Years 11 Months 30 Days
+Darwin Núñez,Centre-Forward,Uruguay,19/20,€750k,€15.25m,CA Peñarol,UD Almería,Primera Division Clausura,LaLiga2,First Tier,Second Tier,20 years 02 months 05 days,
+Manuel Lazzari,Right-Back,Italy,19/20,€18.00m,€15.00m,SPAL,SS Lazio,Serie A,Serie A,First Tier,First Tier,25 years 07 months 13 days,03 Years 11 Months 18 Days
+Ozan Kabak,Centre-Back,Turkey,19/20,€15.00m,€15.00m,VfB Stuttgart,FC Schalke 04,2. Bundesliga,Bundesliga,Second Tier,First Tier,19 years 03 months 06 days,04 Years 11 Months 30 Days
+Riccardo Orsolini,Right Winger,Italy,19/20,€15.00m,€15.00m,Juventus FC,Bologna FC 1909,Serie A,Serie A,First Tier,First Tier,22 years 05 months 07 days,02 Years 11 Months 30 Days
+Lucas Ocampos,Left Winger,Argentina,19/20,€15.00m,€15.00m,Olympique Marseille,Sevilla FC,Ligue 1,LaLiga,First Tier,First Tier,24 years 11 months 22 days,11 Months 27 Days
+Diego Carlos,Centre-Back,Brazil,19/20,€13.00m,€15.00m,FC Nantes,Sevilla FC,Ligue 1,LaLiga,First Tier,First Tier,26 years 03 months 16 days,02 Years 11 Months 30 Days
+M'Baye Niang,Centre-Forward,Senegal,19/20,€12.00m,€15.00m,Torino FC,Stade Rennais FC,Serie A,Ligue 1,First Tier,First Tier,24 years 06 months 12 days,02 Years 11 Months 30 Days
+Moussa Diaby,Right Winger,France,19/20,€12.00m,€15.00m,Paris Saint-Germain,Bayer 04 Leverkusen,Ligue 1,Bundesliga,First Tier,First Tier,19 years 11 months 24 days,11 Months 30 Days
+Keylor Navas,Goalkeeper,Costa Rica,19/20,€10.00m,€15.00m,Real Madrid,Paris Saint-Germain,LaLiga,Ligue 1,First Tier,First Tier,32 years 08 months 18 days,09 Months 28 Days
+Alexander Isak,Centre-Forward,Sweden,19/20,€8.00m,€15.00m,Borussia Dortmund,Real Sociedad,Bundesliga,LaLiga,First Tier,First Tier,19 years 09 months 10 days,02 Years 11 Months 30 Days
+Edson Álvarez,Defensive Midfield,Mexico,19/20,€7.50m,€15.00m,CF América,Ajax Amsterdam,Liga MX Clausura,Eredivisie,First Tier,First Tier,21 years 08 months 28 days,02 Years 11 Months 08 Days
+Youssouf Fofana,Central Midfield,France,19/20,€6.00m,€15.00m,RC Strasbourg Alsace,AS Monaco,Ligue 1,Ligue 1,First Tier,First Tier,21 years 19 days,03 Years 05 Months 01 Days
+Lloyd Kelly,Centre-Back,England,19/20,€9.00m,€14.80m,Bristol City,AFC Bournemouth,Championship,Premier League,Second Tier,First Tier,20 years 08 months 25 days,01 Years 11 Months 30 Days
+Maxi Gómez,Centre-Forward,Uruguay,19/20,€40.00m,€14.50m,Celta de Vigo,Valencia CF,LaLiga,LaLiga,First Tier,First Tier,22 years 11 months 00 days,02 Years 11 Months 16 Days
+Jakub Jankto,Left Midfield,Czech Republic,19/20,€12.00m,€14.50m,Udinese Calcio,UC Sampdoria,Serie A,Serie A,First Tier,First Tier,23 years 05 months 12 days,01 Years 11 Months 30 Days
+Amir Rrahmani,Centre-Back,Kosovo,19/20,€6.00m,€14.20m,Hellas Verona,SSC Napoli,Serie A,Serie A,First Tier,First Tier,25 years 10 months 27 days,03 Years 05 Months 10 Days
+Diadié Samassékou,Defensive Midfield,Mali,19/20,€20.00m,€14.00m,Red Bull Salzburg,TSG 1899 Hoffenheim,Bundesliga,Bundesliga,First Tier,First Tier,23 years 07 months 04 days,01 Years 10 Months 15 Days
+Darío Benedetto,Centre-Forward,Argentina,19/20,€15.00m,€14.00m,CA Boca Juniors,Olympique Marseille,Superliga,Ligue 1,First Tier,First Tier,29 years 02 months 19 days,01 Years 10 Months 25 Days
+Joan Jordán,Central Midfield,Spain,19/20,€12.00m,€14.00m,SD Eibar,Sevilla FC,LaLiga,LaLiga,First Tier,First Tier,24 years 11 months 25 days,11 Months 30 Days
+Manuel Locatelli,Defensive Midfield,Italy,19/20,€12.00m,€14.00m,AC Milan,US Sassuolo,Serie A,Serie A,First Tier,First Tier,21 years 05 months 23 days,11 Months 30 Days
+Djibril Sow,Central Midfield,Switzerland,19/20,€9.00m,€14.00m,BSC Young Boys,Eintracht Frankfurt,Super League,Bundesliga,First Tier,First Tier,22 years 04 months 25 days,01 Years 11 Months 30 Days
+Leander Dendoncker,Defensive Midfield,Belgium,19/20,€18.00m,€13.80m,RSC Anderlecht,Wolverhampton Wanderers,Jupiler Pro League,Premier League,First Tier,First Tier,24 years 02 months 16 days,01 Years 11 Months 30 Days
+Ruslan Malinovskyi,Attacking Midfield,Ukraine,19/20,€12.50m,€13.60m,KRC Genk,Atalanta BC,Jupiler Pro League,Serie A,First Tier,First Tier,26 years 02 months 12 days,02 Years 11 Months 14 Days
+Benjamin Lecomte,Goalkeeper,France,19/20,€17.00m,€13.50m,Montpellier HSC,AS Monaco,Ligue 1,Ligue 1,First Tier,First Tier,28 years 02 months 19 days,03 Years 11 Months 15 Days
+Henry Onyekuru,Left Winger,Nigeria,19/20,€13.00m,€13.50m,Everton FC,AS Monaco,Premier League,Ligue 1,First Tier,First Tier,22 years 02 months 07 days,02 Years 10 Months 18 Days
+Douglas Santos,Left-Back,Brazil,19/20,€10.00m,€13.50m,Hamburger SV,Zenit St. Petersburg,2. Bundesliga,Premier Liga,Second Tier,First Tier,25 years 03 months 12 days,01 Years 11 Months 26 Days
+Jeison Murillo,Centre-Back,Colombia,19/20,€8.00m,€13.30m,Valencia CF,UC Sampdoria,LaLiga,Serie A,First Tier,First Tier,27 years 07 months 18 days,02 Years 05 Months 16 Days
+Ezri Konsa,Centre-Back,England,19/20,€3.50m,€13.30m,Brentford FC,Aston Villa,Championship,Premier League,Second Tier,First Tier,21 years 08 months 18 days,01 Years 11 Months 19 Days
+Valentin Rongier,Central Midfield,France,19/20,€15.00m,€13.00m,FC Nantes,Olympique Marseille,Ligue 1,Ligue 1,First Tier,First Tier,24 years 08 months 27 days,02 Years 09 Months 27 Days
+Gerson,Central Midfield,Brazil,19/20,€13.00m,€13.00m,AS Roma,CR Flamengo,Serie A,Campeonato Brasileiro Série A,First Tier,First Tier,22 years 01 month 22 days,01 Years 11 Months 18 Days
+Christopher Nkunku,Second Striker,France,19/20,€12.00m,€13.00m,Paris Saint-Germain,RB Leipzig,Ligue 1,Bundesliga,First Tier,First Tier,21 years 08 months 04 days,11 Months 12 Days
+Alexis Claude-Maurice,Attacking Midfield,France,19/20,€7.50m,€13.00m,FC Lorient,OGC Nice,Ligue 2,Ligue 1,Second Tier,First Tier,21 years 02 months 23 days,01 Years 10 Months 01 Days
+Denis Suárez,Attacking Midfield,Spain,19/20,€12.00m,€12.90m,FC Barcelona,Celta de Vigo,LaLiga,LaLiga,First Tier,First Tier,25 years 05 months 25 days,01 Years 11 Months 30 Days
+Razvan Marin,Central Midfield,Romania,19/20,€13.50m,€12.50m,Standard Liège,Ajax Amsterdam,Jupiler Pro League,Eredivisie,First Tier,First Tier,23 years 01 month 08 days,03 Years 11 Months 30 Days
+Stefan Lainer,Right-Back,Austria,19/20,€12.50m,€12.50m,Red Bull Salzburg,Borussia Mönchengladbach,Bundesliga,Bundesliga,First Tier,First Tier,26 years 10 months 04 days,02 Years 11 Months 00 Days
+Luuk de Jong,Centre-Forward,Netherlands,19/20,€12.00m,€12.50m,PSV Eindhoven,Sevilla FC,Eredivisie,LaLiga,First Tier,First Tier,28 years 10 months 04 days,01 Years 11 Months 30 Days
+Stanley Nsoki,Centre-Back,France,19/20,€8.50m,€12.50m,Paris Saint-Germain,OGC Nice,Ligue 1,Ligue 1,First Tier,First Tier,20 years 04 months 22 days,01 Years 09 Months 30 Days
+Isaac Mbenza,Right Winger,Belgium,19/20,€5.00m,€12.50m,Montpellier HSC,Huddersfield Town,Ligue 1,Championship,First Tier,Second Tier,23 years 04 months 01 day,11 Months 21 Days
+Erick Pulgar,Defensive Midfield,Chile,19/20,€10.00m,€12.30m,Bologna FC 1909,ACF Fiorentina,Serie A,Serie A,First Tier,First Tier,25 years 06 months 25 days,02 Years 10 Months 21 Days
+Duván Zapata,Centre-Forward,Colombia,19/20,€45.00m,€12.00m,UC Sampdoria,Atalanta BC,Serie A,Serie A,First Tier,First Tier,28 years 09 months 16 days,02 Years 05 Months 13 Days
+Nicolò Barella,Central Midfield,Italy,19/20,€36.00m,Loan fee:€12.00m,Cagliari Calcio,Inter Milan,Serie A,Serie A,First Tier,First Tier,22 years 05 months 05 days,02 Years 11 Months 18 Days
+Shoya Nakajima,Attacking Midfield,Japan,19/20,€25.00m,€12.00m,Al-Duhail SC,FC Porto,Qatar Stars League,Liga NOS,First Tier,First Tier,24 years 10 months 12 days,03 Years 11 Months 25 Days
+Andrea Petagna,Centre-Forward,Italy,19/20,€20.00m,€12.00m,Atalanta BC,SPAL,Serie A,Serie A,First Tier,First Tier,24 years 01 day,11 Months 30 Days
+Grzegorz Krychowiak,Defensive Midfield,Poland,19/20,€18.00m,€12.00m,Paris Saint-Germain,Lokomotiv Moscow,Ligue 1,Premier Liga,First Tier,First Tier,29 years 05 months 04 days,01 Years 11 Months 27 Days
+Angeliño,Left-Back,Spain,19/20,€16.00m,€12.00m,PSV Eindhoven,Manchester City,Eredivisie,Premier League,First Tier,First Tier,22 years 05 months 29 days,03 Years 11 Months 27 Days
+Xaver Schlager,Central Midfield,Austria,19/20,€15.00m,€12.00m,Red Bull Salzburg,VfL Wolfsburg,Bundesliga,Bundesliga,First Tier,First Tier,21 years 09 months 03 days,01 Years 11 Months 30 Days
+Rémy Cabella,Attacking Midfield,France,19/20,€14.00m,€12.00m,AS Saint-Étienne,FK Krasnodar,Ligue 1,Premier Liga,First Tier,First Tier,29 years 04 months 18 days,02 Years 11 Months 04 Days
+Hannes Wolf,Left Winger,Austria,19/20,€12.00m,€12.00m,Red Bull Salzburg,RB Leipzig,Bundesliga,Bundesliga,First Tier,First Tier,20 years 02 months 15 days,11 Months 30 Days
+Simone Zaza,Centre-Forward,Italy,19/20,€10.00m,€12.00m,Valencia CF,Torino FC,LaLiga,Serie A,First Tier,First Tier,28 years 06 days,01 Years 11 Months 30 Days
+Bruma,Left Winger,Portugal,19/20,€10.00m,€12.00m,RB Leipzig,PSV Eindhoven,Bundesliga,Eredivisie,First Tier,First Tier,24 years 08 months 07 days,02 Years 11 Months 30 Days
+Munas Dabbur,Centre-Forward,Israel,19/20,€10.00m,€12.00m,Sevilla FC,TSG 1899 Hoffenheim,LaLiga,Bundesliga,First Tier,First Tier,27 years 07 months 24 days,03 Years 05 Months 23 Days
+Pedro Porro,Right-Back,Spain,19/20,€10.00m,€12.00m,Girona FC,Manchester City,LaLiga2,Premier League,Second Tier,First Tier,19 years 10 months 26 days,03 Years 10 Months 22 Days
+Timo Baumgartl,Centre-Back,Germany,19/20,€9.00m,€12.00m,VfB Stuttgart,PSV Eindhoven,2. Bundesliga,Eredivisie,Second Tier,First Tier,23 years 04 months 22 days,02 Years 11 Months 04 Days
+Odion Ighalo,Centre-Forward,Nigeria,19/20,€6.50m,Loan fee:€12.00m,Shanghai Greenland Shenhua,Manchester United,Chinese Super League,Premier League,First Tier,First Tier,30 years 07 months 15 days,01 Years 11 Months 00 Days
+Marvelous Nakamba,Defensive Midfield,Zimbabwe,19/20,€6.50m,€12.00m,Club Brugge KV,Aston Villa,Jupiler Pro League,Premier League,First Tier,First Tier,25 years 06 months 13 days,01 Years 10 Months 29 Days
+Tino Kadewere,Centre-Forward,Zimbabwe,19/20,€4.00m,€12.00m,AC Le Havre,Olympique Lyon,Ligue 2,Ligue 1,Second Tier,First Tier,24 years 17 days,02 Years 05 Months 08 Days
+Alex Kral,Defensive Midfield,Czech Republic,19/20,€3.50m,€12.00m,SK Slavia Prague,Spartak Moscow,Fortuna Liga,Premier Liga,First Tier,First Tier,21 years 03 months 13 days,03 Years 09 Months 29 Days
+Thierry Correia,Right-Back,Portugal,19/20,€400k,€12.00m,Sporting CP,Valencia CF,Liga NOS,LaLiga,First Tier,First Tier,20 years 05 months 24 days,02 Years 09 Months 28 Days
+Ivan Cavaleiro,Left Winger,Portugal,19/20,€10.00m,€11.80m,Wolverhampton Wanderers,Fulham FC,Premier League,Championship,First Tier,Second Tier,26 years 02 months 20 days,01 Years 05 Months 23 Days
+Zinho Vanheusden,Centre-Back,Belgium,19/20,€10.00m,€11.74m,Inter Milan,Standard Liège,Serie A,Jupiler Pro League,First Tier,First Tier,19 years 11 months 02 days,02 Years 11 Months 30 Days
+João Pedro,Centre-Forward,Brazil,19/20,€20.00m,€11.50m,Fluminense Football Club,Watford FC,Campeonato Brasileiro Série A,Premier League,First Tier,First Tier,18 years 03 months 06 days,01 Years 05 Months 29 Days
+Albian Ajeti,Centre-Forward,Switzerland,19/20,€7.00m,€11.30m,FC Basel 1893,West Ham United,Super League,Premier League,First Tier,First Tier,22 years 05 months 13 days,02 Years 10 Months 22 Days
+Noah Okafor,Centre-Forward,Switzerland,19/20,€8.00m,€11.20m,FC Basel 1893,Red Bull Salzburg,Super League,Bundesliga,First Tier,First Tier,19 years 08 months 07 days,03 Years 04 Months 30 Days
+Lys Mousset,Centre-Forward,France,19/20,€3.50m,€11.10m,AFC Bournemouth,Sheffield United,Premier League,Premier League,First Tier,First Tier,23 years 05 months 13 days,11 Months 09 Days
+Pedro,Centre-Forward,Brazil,19/20,€18.00m,€11.00m,Fluminense Football Club,ACF Fiorentina,Campeonato Brasileiro Série A,Serie A,First Tier,First Tier,22 years 02 months 13 days,01 Years 10 Months 29 Days
+Óliver Torres,Central Midfield,Spain,19/20,€17.00m,€11.00m,FC Porto,Sevilla FC,Liga NOS,LaLiga,First Tier,First Tier,24 years 08 months 05 days,01 Years 11 Months 15 Days
+Breel Embolo,Centre-Forward,Switzerland,19/20,€14.00m,€11.00m,FC Schalke 04,Borussia Mönchengladbach,Bundesliga,Bundesliga,First Tier,First Tier,22 years 04 months 17 days,01 Years 11 Months 30 Days
+Luciano Vietto,Attacking Midfield,Argentina,19/20,€7.00m,€11.00m,Atlético de Madrid,Sporting CP,LaLiga,Liga NOS,First Tier,First Tier,25 years 06 months 26 days,01 Years 11 Months 30 Days
+Jack Clarke,Left Winger,England,19/20,€6.00m,€11.00m,Leeds United,Tottenham Hotspur,Championship,Premier League,Second Tier,First Tier,18 years 07 months 09 days,01 Years 11 Months 28 Days
+Pedro Neto,Right Winger,Portugal,19/20,€2.50m,€11.00m,SC Braga,SS Lazio,Liga NOS,Serie A,First Tier,First Tier,19 years 03 months 22 days,11 Months 30 Days
+Rodolfo Pizarro,Attacking Midfield,Mexico,19/20,€10.00m,€10.91m,CF Monterrey,Inter Miami CF,Liga MX Clausura,Major League Soccer,First Tier,First Tier,26 years 02 days,03 Years 04 Months 13 Days
+Zé Luís,Centre-Forward,Cape Verde,19/20,€8.00m,€10.75m,Spartak Moscow,FC Porto,Premier Liga,Liga NOS,First Tier,First Tier,28 years 05 months 11 days,01 Years 11 Months 25 Days
+Ionut Radu,Goalkeeper,Romania,19/20,€15.00m,€10.60m,Genoa CFC,Inter Milan,Serie A,Serie A,First Tier,First Tier,22 years 01 month 14 days,01 Years 11 Months 18 Days
+Léo Duarte,Centre-Back,Brazil,19/20,€4.00m,€10.60m,CR Flamengo,AC Milan,Campeonato Brasileiro Série A,Serie A,First Tier,First Tier,23 years 21 days,03 Years 04 Months 24 Days
+Ally Samatta,Centre-Forward,Tanzania,19/20,€12.00m,€10.50m,KRC Genk,Aston Villa,Jupiler Pro League,Premier League,First Tier,First Tier,27 years 28 days,01 Years 05 Months 10 Days
+Matías Vargas,Left Winger,Argentina,19/20,€11.00m,€10.50m,CA Vélez Sarsfield,RCD Espanyol Barcelona,Superliga,LaLiga,First Tier,First Tier,22 years 02 months 06 days,11 Months 16 Days
+Maximilian Wöber,Centre-Back,Austria,19/20,€10.00m,€10.50m,Sevilla FC,Red Bull Salzburg,LaLiga,Bundesliga,First Tier,First Tier,21 years 06 months 09 days,03 Years 10 Months 17 Days
+Maximilian Wöber,Centre-Back,Austria,19/20,€10.00m,€10.50m,Ajax Amsterdam,Sevilla FC,Eredivisie,LaLiga,First Tier,First Tier,21 years 04 months 27 days,01 Years 11 Months 30 Days
+Denis Vavro,Centre-Back,Slovakia,19/20,€6.00m,€10.50m,FC Copenhagen,SS Lazio,Superligaen Meisterrunde,Serie A,Play-Offs,First Tier,23 years 02 months 24 days,02 Years 11 Months 26 Days
+Brian Rodríguez,Left Winger,Uruguay,19/20,€1.00m,€10.45m,CA Peñarol,Los Angeles FC,Primera Division Clausura,Major League Soccer,First Tier,First Tier,19 years 02 months 18 days,
+Diego Demme,Defensive Midfield,Germany,19/20,€17.00m,€10.25m,RB Leipzig,SSC Napoli,Bundesliga,Serie A,First Tier,First Tier,28 years 01 month 21 days,01 Years 05 Months 19 Days
+Robert Skov,Right Midfield,Denmark,19/20,€13.00m,€10.00m,FC Copenhagen,TSG 1899 Hoffenheim,Superligaen Meisterrunde,Bundesliga,Play-Offs,First Tier,23 years 02 months 09 days,02 Years 11 Months 01 Days
+Benito Raman,Centre-Forward,Belgium,19/20,€12.00m,€10.00m,Fortuna Düsseldorf,FC Schalke 04,Bundesliga,Bundesliga,First Tier,First Tier,24 years 07 months 28 days,02 Years 11 Months 25 Days
+Rémi Oudin,Right Winger,France,19/20,€11.00m,€10.00m,Stade Reims,FC Girondins Bordeaux,Ligue 1,Ligue 1,First Tier,First Tier,23 years 01 month 22 days,01 Years 05 Months 21 Days
+Jay Rodríguez,Centre-Forward,England,19/20,€10.00m,€10.00m,West Bromwich Albion,Burnley FC,Championship,Premier League,Second Tier,First Tier,29 years 11 months 10 days,01 Years 11 Months 21 Days
+Portu,Right Winger,Spain,19/20,€10.00m,€10.00m,Girona FC,Real Sociedad,LaLiga2,LaLiga,Second Tier,First Tier,27 years 01 month 10 days,01 Years 11 Months 30 Days
+Santiago Ascacíbar,Defensive Midfield,Argentina,19/20,€10.00m,€10.00m,VfB Stuttgart,Hertha BSC,2. Bundesliga,Bundesliga,Second Tier,First Tier,22 years 10 months 07 days,03 Years 05 Months 29 Days
+Strahinja Pavlovic,Centre-Back,Serbia,19/20,€8.00m,€10.00m,FK Partizan Belgrade,AS Monaco,Super liga Srbije,Ligue 1,First Tier,First Tier,18 years 07 months 08 days,04 Years 05 Months 29 Days
+Mahmoud Trezeguet,Left Winger,Egypt,19/20,€6.00m,€10.00m,Kasimpasa,Aston Villa,Süper Lig,Premier League,First Tier,First Tier,24 years 09 months 23 days,01 Years 11 Months 06 Days
+Timothy Weah,Right Winger,United States,19/20,€6.00m,€10.00m,Paris Saint-Germain,LOSC Lille,Ligue 1,Ligue 1,First Tier,First Tier,19 years 04 months 09 days,01 Years 11 Months 30 Days
+Josh Brownhill,Central Midfield,England,19/20,€4.50m,€10.00m,Bristol City,Burnley FC,Championship,Premier League,Second Tier,First Tier,24 years 01 month 11 days,01 Years 05 Months 00 Days
+Adrián Embarba,Right Winger,Spain,19/20,€4.00m,€10.00m,Rayo Vallecano,RCD Espanyol Barcelona,LaLiga2,LaLiga,Second Tier,First Tier,27 years 08 months 16 days,01 Years 05 Months 07 Days
+Eddie Salcedo,Centre-Forward,Italy,19/20,€2.00m,€10.00m,Genoa CFC,Inter Milan,Serie A,Serie A,First Tier,First Tier,17 years 09 months 00 days,11 Months 30 Days
+Jean Marcelin,Centre-Back,France,19/20,€1.50m,€10.00m,AJ Auxerre,AS Monaco,Ligue 2,Ligue 1,Second Tier,First Tier,19 years 11 months 18 days,03 Years 05 Months 00 Days
+Arthur Zagré,Left-Back,France,19/20,-,€10.00m,Paris Saint-Germain,AS Monaco,Ligue 1,Ligue 1,First Tier,First Tier,17 years 10 months 25 days,01 Years 10 Months 01 Days
+Hannibal,Attacking Midfield,Tunisia,19/20,-,€10.00m,AS Monaco Youth,Manchester United U18,-,U18 Premier League,-,Youth league,16 years 06 months 21 days,
+Uriel Antuna,Right Winger,Mexico,19/20,€3.20m,€9.90m,Manchester City U23,Deportivo Guadalajara,Premier League 2,Liga MX Clausura,Reserve league,First Tier,22 years 04 months 11 days,02 Years 05 Months 29 Days
+Ola Aina,Right-Back,Nigeria,19/20,€10.00m,€9.80m,Chelsea FC,Torino FC,Premier League,Serie A,First Tier,First Tier,22 years 08 months 23 days,01 Years 11 Months 30 Days
+Giovanni Di Lorenzo,Right-Back,Italy,19/20,€9.00m,€9.80m,Empoli FC ,SSC Napoli,Serie B,Serie A,Second Tier,First Tier,25 years 10 months 27 days,02 Years 11 Months 30 Days
+Álex Moreno,Left-Back,Spain,19/20,€12.00m,€9.70m,Rayo Vallecano,Real Betis Balompié,LaLiga2,LaLiga,Second Tier,First Tier,26 years 02 months 13 days,01 Years 10 Months 09 Days
+Fernando,Defensive Midfield,Brazil,19/20,€9.00m,€9.60m,Spartak Moscow,Beijing Guoan,Premier Liga,Chinese Super League,First Tier,First Tier,27 years 11 months 25 days,01 Years 04 Months 02 Days
+Fabian Delph,Central Midfield,England,19/20,€15.00m,€9.50m,Manchester City,Everton FC,Premier League,Premier League,First Tier,First Tier,29 years 07 months 24 days,11 Months 15 Days
+Kai Havertz,Attacking Midfield,Germany,20/21,€81.00m,€80.00m,Bayer 04 Leverkusen,Chelsea FC,Bundesliga,Premier League,First Tier,First Tier,21 years 02 months 24 days,01 Years 09 Months 26 Days
+Arthur Melo,Central Midfield,Brazil,20/21,€56.00m,€76.00m,FC Barcelona,Juventus FC,LaLiga,Serie A,First Tier,First Tier,24 years 20 days,03 Years 09 Months 29 Days
+Victor Osimhen,Centre-Forward,Nigeria,20/21,€40.00m,€75.00m,LOSC Lille,SSC Napoli,Ligue 1,Serie A,First Tier,First Tier,21 years 08 months 03 days,03 Years 09 Months 29 Days
+Rúben Dias,Centre-Back,Portugal,20/21,€35.00m,€71.60m,SL Benfica,Manchester City,Liga NOS,Premier League,First Tier,First Tier,23 years 04 months 15 days,03 Years 09 Months 01 Days
+Miralem Pjanic,Central Midfield,Bosnia-Herzegovina,20/21,€45.00m,€60.00m,Juventus FC,FC Barcelona,Serie A,LaLiga,First Tier,First Tier,30 years 04 months 30 days,02 Years 09 Months 29 Days
+Timo Werner,Centre-Forward,Germany,20/21,€64.00m,€53.00m,RB Leipzig,Chelsea FC,Bundesliga,Premier League,First Tier,First Tier,24 years 03 months 25 days,02 Years 11 Months 30 Days
+Ben Chilwell,Left-Back,England,20/21,€40.00m,€50.20m,Leicester City,Chelsea FC,Premier League,Premier League,First Tier,First Tier,23 years 08 months 05 days,03 Years 10 Months 04 Days
+Mauro Icardi,Centre-Forward,Argentina,20/21,€60.00m,€50.00m,Inter Milan,Paris Saint-Germain,Serie A,Ligue 1,First Tier,First Tier,27 years 04 months 12 days,01 Years 11 Months 30 Days
+Thomas Partey,Defensive Midfield,Ghana,20/21,€40.00m,€50.00m,Atlético de Madrid,Arsenal FC,LaLiga,Premier League,First Tier,First Tier,27 years 03 months 22 days,02 Years 08 Months 25 Days
+Leroy Sané,Right Winger,Germany,20/21,€80.00m,€49.00m,Manchester City,Bayern Munich,Premier League,Bundesliga,First Tier,First Tier,24 years 06 months 04 days,11 Months 15 Days
+Nathan Aké,Centre-Back,Netherlands,20/21,€28.00m,€45.30m,AFC Bournemouth,Manchester City,Championship,Premier League,Second Tier,First Tier,25 years 05 months 18 days,01 Years 10 Months 25 Days
+Diogo Jota,Left Winger,Portugal,20/21,€28.00m,€44.70m,Wolverhampton Wanderers,Liverpool FC,Premier League,Premier League,First Tier,First Tier,23 years 09 months 15 days,01 Years 09 Months 11 Days
+Achraf Hakimi,Right-Back,Morocco,20/21,€54.00m,€43.00m,Real Madrid,Inter Milan,LaLiga,Serie A,First Tier,First Tier,21 years 09 months 28 days,01 Years 09 Months 29 Days
+Hakim Ziyech,Right Winger,Morocco,20/21,€40.00m,€40.00m,Ajax Amsterdam,Chelsea FC,Eredivisie,Premier League,First Tier,First Tier,27 years 03 months 12 days,01 Years 11 Months 30 Days
+Fábio Silva,Centre-Forward,Portugal,20/21,€12.00m,€40.00m,FC Porto,Wolverhampton Wanderers,Liga NOS,Premier League,First Tier,First Tier,18 years 01 month 17 days,01 Years 09 Months 25 Days
+Donny van de Beek,Central Midfield,Netherlands,20/21,€44.00m,€39.00m,Ajax Amsterdam,Manchester United,Eredivisie,Premier League,First Tier,First Tier,23 years 04 months 15 days,01 Years 09 Months 28 Days
+Álvaro Morata,Centre-Forward,Spain,20/21,€36.00m,€35.00m,Chelsea FC,Atlético de Madrid,Premier League,LaLiga,First Tier,First Tier,27 years 08 months 08 days,01 Years 11 Months 30 Days
+Wesley Fofana,Centre-Back,France,20/21,€10.00m,€35.00m,AS Saint-Étienne,Leicester City,Ligue 1,Premier League,First Tier,First Tier,19 years 09 months 15 days,03 Years 08 Months 28 Days
+Ollie Watkins,Centre-Forward,England,20/21,€12.00m,€34.00m,Brentford FC,Aston Villa,Championship,Premier League,Second Tier,First Tier,24 years 08 months 10 days,02 Years 09 Months 21 Days
+Darwin Núñez,Centre-Forward,Uruguay,20/21,€10.00m,€34.00m,UD Almería,SL Benfica,LaLiga2,Liga NOS,Second Tier,First Tier,21 years 02 months 11 days,03 Years 09 Months 26 Days
+Ferran Torres,Left Winger,Spain,20/21,€45.00m,€33.50m,Valencia CF,Manchester City,LaLiga,Premier League,First Tier,First Tier,20 years 05 months 06 days,10 Months 26 Days
+Nicolò Barella,Central Midfield,Italy,20/21,€50.00m,€32.50m,Cagliari Calcio,Inter Milan,Serie A,Serie A,First Tier,First Tier,23 years 06 months 25 days,01 Years 09 Months 29 Days
+Nélson Semedo,Right-Back,Portugal,20/21,€40.00m,€32.00m,FC Barcelona,Wolverhampton Wanderers,LaLiga,Premier League,First Tier,First Tier,26 years 10 months 07 days,01 Years 09 Months 07 Days
+Giovani Lo Celso,Central Midfield,Argentina,20/21,€40.00m,€32.00m,Real Betis Balompié,Tottenham Hotspur,LaLiga,Premier League,First Tier,First Tier,24 years 02 months 22 days,02 Years 11 Months 30 Days
+Trincão,Right Winger,Portugal,20/21,€16.00m,€31.00m,SC Braga,FC Barcelona,Liga NOS,LaLiga,First Tier,First Tier,20 years 07 months 05 days,02 Years 10 Months 27 Days
+Rodrigo,Centre-Forward,Spain,20/21,€40.00m,€30.00m,Valencia CF,Leeds United,LaLiga,Premier League,First Tier,First Tier,29 years 05 months 23 days,01 Years 10 Months 01 Days
+Sergio Reguilón,Left-Back,Spain,20/21,€25.00m,€30.00m,Real Madrid,Tottenham Hotspur,LaLiga,Premier League,First Tier,First Tier,23 years 09 months 03 days,02 Years 09 Months 11 Days
+Ben Godfrey,Centre-Back,England,20/21,€16.00m,€27.50m,Norwich City,Everton FC,Championship,Premier League,Second Tier,First Tier,22 years 08 months 20 days,08 Months 25 Days
+Jonathan David,Centre-Forward,Canada,20/21,€25.00m,€27.00m,KAA Gent,LOSC Lille,Jupiler Pro League,Ligue 1,First Tier,First Tier,20 years 06 months 28 days,02 Years 10 Months 19 Days
+Yannick Carrasco,Left Winger,Belgium,20/21,€22.50m,€27.00m,Dalian Professional,Atlético de Madrid,Chinese Super League,LaLiga,First Tier,First Tier,27 years 04 days,02 Years 03 Months 23 Days
+Patrik Schick,Centre-Forward,Czech Republic,20/21,€25.00m,€26.50m,AS Roma,Bayer 04 Leverkusen,Serie A,Bundesliga,First Tier,First Tier,24 years 07 months 15 days,01 Years 09 Months 22 Days
+Gabriel Magalhães,Centre-Back,Brazil,20/21,€20.00m,€26.00m,LOSC Lille,Arsenal FC,Ligue 1,Premier League,First Tier,First Tier,22 years 08 months 13 days,02 Years 09 Months 29 Days
+Jérémy Doku,Right Winger,Belgium,20/21,€9.00m,€26.00m,RSC Anderlecht,Stade Rennais FC,Jupiler Pro League,Ligue 1,First Tier,First Tier,18 years 04 months 08 days,01 Years 08 Months 25 Days
+Rhian Brewster,Centre-Forward,England,20/21,€5.40m,€26.00m,Liverpool FC U23,Sheffield United,Premier League 2,Premier League,Reserve league,First Tier,20 years 06 months 00 days,
+Nicolò Rovella,Defensive Midfield,Italy,20/21,€4.00m,€26.00m,Genoa CFC,Juventus FC,Serie A,Serie A,First Tier,First Tier,19 years 01 month 24 days,05 Months 02 Days
+Emre Can,Defensive Midfield,Germany,20/21,€24.00m,€25.00m,Juventus FC,Borussia Dortmund,Serie A,Bundesliga,First Tier,First Tier,26 years 05 months 19 days,01 Years 11 Months 30 Days
+Stefano Sensi,Central Midfield,Italy,20/21,€20.00m,€25.00m,US Sassuolo,Inter Milan,Serie A,Serie A,First Tier,First Tier,25 years 27 days,02 Years 09 Months 29 Days
+Jude Bellingham,Central Midfield,England,20/21,€11.00m,€25.00m,Birmingham City,Borussia Dortmund,Championship,Bundesliga,Second Tier,First Tier,17 years 24 days,11 Months 07 Days
+Allan,Defensive Midfield,Brazil,20/21,€28.00m,€24.60m,SSC Napoli,Everton FC,Serie A,Premier League,First Tier,First Tier,29 years 07 months 28 days,02 Years 09 Months 25 Days
+Edouard Mendy,Goalkeeper,Senegal,20/21,€7.00m,€24.00m,Stade Rennais FC,Chelsea FC,Ligue 1,Premier League,First Tier,First Tier,28 years 06 months 25 days,02 Years 09 Months 06 Days
+Lucas Paquetá,Attacking Midfield,Brazil,20/21,€20.00m,€23.44m,AC Milan,Olympique Lyon,Serie A,Ligue 1,First Tier,First Tier,23 years 01 month 03 days,02 Years 09 Months 00 Days
+Saïd Benrahma,Left Winger,Algeria,20/21,€22.00m,€23.10m,Brentford FC,West Ham United,Championship,Premier League,Second Tier,First Tier,25 years 05 months 19 days,01 Years 05 Months 01 Days
+Sébastien Haller,Centre-Forward,Cote d'Ivoire,20/21,€30.00m,€22.50m,West Ham United,Ajax Amsterdam,Premier League,Eredivisie,First Tier,First Tier,26 years 06 months 17 days,03 Years 05 Months 22 Days
+Callum Wilson,Centre-Forward,England,20/21,€20.00m,€22.25m,AFC Bournemouth,Newcastle United,Championship,Premier League,Second Tier,First Tier,28 years 06 months 11 days,02 Years 09 Months 23 Days
+Thiago,Central Midfield,Spain,20/21,€48.00m,€22.00m,Bayern Munich,Liverpool FC,Bundesliga,Premier League,First Tier,First Tier,29 years 05 months 07 days,09 Months 12 Days
+Dominik Szoboszlai,Attacking Midfield,Hungary,20/21,€25.00m,€22.00m,Red Bull Salzburg,RB Leipzig,Bundesliga,Bundesliga,First Tier,First Tier,20 years 02 months 07 days,01 Years 04 Months 29 Days
+Abdoulaye Doucouré,Central Midfield,Mali,20/21,€20.00m,€22.00m,Watford FC,Everton FC,Championship,Premier League,Second Tier,First Tier,27 years 08 months 07 days,
+Simone Verdi,Attacking Midfield,Italy,20/21,€13.00m,€22.00m,SSC Napoli,Torino FC,Serie A,Serie A,First Tier,First Tier,28 years 01 month 20 days,02 Years 09 Months 29 Days
+Roberto Inglese,Centre-Forward,Italy,20/21,€12.00m,€21.80m,SSC Napoli,Parma Calcio 1913,Serie A,Serie A,First Tier,First Tier,28 years 09 months 20 days,01 Years 09 Months 29 Days
+Suso,Right Winger,Spain,20/21,€17.50m,€21.70m,AC Milan,Sevilla FC,Serie A,LaLiga,First Tier,First Tier,26 years 08 months 02 days,01 Years 11 Months 09 Days
+Amad Diallo,Right Winger,Cote d'Ivoire,20/21,€15.00m,€21.30m,Atalanta BC,Manchester United,Serie A,Premier League,First Tier,First Tier,18 years 05 months 22 days,
+Gianluca Mancini,Centre-Back,Italy,20/21,€22.00m,€21.00m,Atalanta BC,AS Roma,Serie A,Serie A,First Tier,First Tier,24 years 04 months 15 days,02 Years 09 Months 29 Days
+Sergiño Dest,Right-Back,United States,20/21,€18.00m,€21.00m,Ajax Amsterdam,FC Barcelona,Eredivisie,LaLiga,First Tier,First Tier,19 years 10 months 28 days,01 Years 08 Months 30 Days
+Andrea Pinamonti,Centre-Forward,Italy,20/21,€13.50m,€21.00m,Genoa CFC,Inter Milan,Serie A,Serie A,First Tier,First Tier,21 years 03 months 30 days,
+Jean-Kévin Augustin,Centre-Forward,France,20/21,€9.50m,€21.00m,RB Leipzig,Leeds United,Bundesliga,Premier League,First Tier,First Tier,23 years 15 days,01 Years 11 Months 30 Days
+Timothy Castagne,Right-Back,Belgium,20/21,€18.00m,€20.90m,Atalanta BC,Leicester City,Serie A,Premier League,First Tier,First Tier,24 years 08 months 29 days,01 Years 09 Months 27 Days
+Aaron Ramsdale,Goalkeeper,England,20/21,€12.50m,€20.50m,AFC Bournemouth,Sheffield United,Championship,Premier League,Second Tier,First Tier,22 years 03 months 05 days,
+Wendel,Central Midfield,Brazil,20/21,€12.00m,€20.30m,Sporting CP,Zenit St. Petersburg,Liga NOS,Premier Liga,First Tier,First Tier,23 years 01 month 08 days,02 Years 08 Months 24 Days
+Álvaro Morata,Centre-Forward,Spain,20/21,€36.00m,Loan fee:€20.00m,Atlético de Madrid,Juventus FC,LaLiga,Serie A,First Tier,First Tier,27 years 10 months 30 days,03 Years 09 Months 08 Days
+Everton,Left Winger,Brazil,20/21,€28.00m,€20.00m,Grêmio Foot-Ball Porto Alegrense,SL Benfica,Campeonato Brasileiro Série A,Liga NOS,First Tier,First Tier,24 years 04 months 23 days,03 Years 04 Months 17 Days
+Diego Llorente,Centre-Back,Spain,20/21,€20.00m,€20.00m,Real Sociedad,Leeds United,LaLiga,Premier League,First Tier,First Tier,27 years 01 month 08 days,01 Years 09 Months 06 Days
+Alexander Sørloth,Centre-Forward,Norway,20/21,€20.00m,€20.00m,Crystal Palace,RB Leipzig,Premier League,Bundesliga,First Tier,First Tier,24 years 09 months 17 days,01 Years 09 Months 08 Days
+Vedat Muriqi,Centre-Forward,Kosovo,20/21,€12.00m,€20.00m,Fenerbahce,SS Lazio,Süper Lig,Serie A,First Tier,First Tier,26 years 04 months 22 days,02 Years 09 Months 15 Days
+Andrea Pinamonti,Centre-Forward,Italy,20/21,€13.50m,€19.50m,Inter Milan,Genoa CFC,Serie A,Serie A,First Tier,First Tier,21 years 03 months 13 days,
+Raphinha,Right Winger,Brazil,20/21,€16.00m,€18.60m,Stade Rennais FC,Leeds United,Ligue 1,Premier League,First Tier,First Tier,23 years 09 months 21 days,02 Years 08 Months 25 Days
+Bertrand Traoré,Right Winger,Burkina Faso,20/21,€9.50m,€18.40m,Olympique Lyon,Aston Villa,Ligue 1,Premier League,First Tier,First Tier,25 years 13 days,01 Years 09 Months 11 Days
+Pedrinho,Right Winger,Brazil,20/21,€13.50m,€18.00m,Sport Club Corinthians Paulista,SL Benfica,Campeonato Brasileiro Série A,Liga NOS,First Tier,First Tier,22 years 03 months 19 days,03 Years 04 Months 29 Days
+Eberechi Eze,Attacking Midfield,England,20/21,€9.00m,€17.80m,Queens Park Rangers,Crystal Palace,Championship,Premier League,Second Tier,First Tier,22 years 01 month 30 days,10 Months 02 Days
+Hélder Costa,Right Winger,Angola,20/21,€8.00m,€17.70m,Wolverhampton Wanderers,Leeds United,Premier League,Premier League,First Tier,First Tier,26 years 05 months 19 days,11 Months 30 Days
+Jordan Veretout,Defensive Midfield,France,20/21,€24.00m,€17.50m,ACF Fiorentina,AS Roma,Serie A,Serie A,First Tier,First Tier,27 years 06 months 03 days,01 Years 09 Months 29 Days
+Emiliano Martínez,Goalkeeper,Argentina,20/21,€8.00m,€17.40m,Arsenal FC,Aston Villa,Premier League,Premier League,First Tier,First Tier,28 years 14 days,01 Years 09 Months 14 Days
+Gerard Deulofeu,Centre-Forward,Spain,20/21,€12.00m,€17.00m,Watford FC,Udinese Calcio,Championship,Serie A,Second Tier,First Tier,26 years 10 months 17 days,02 Years 05 Months 00 Days
+Matt Doherty,Right-Back,Ireland,20/21,€16.00m,€16.80m,Wolverhampton Wanderers,Tottenham Hotspur,Premier League,Premier League,First Tier,First Tier,28 years 07 months 14 days,
+Krépin Diatta,Right Winger,Senegal,20/21,€18.00m,€16.70m,Club Brugge KV,AS Monaco,Jupiler Pro League,Ligue 1,First Tier,First Tier,21 years 10 months 27 days,03 Years 05 Months 09 Days
+Pierre-Emile Höjbjerg,Central Midfield,Denmark,20/21,€20.00m,€16.60m,Southampton FC,Tottenham Hotspur,Premier League,Premier League,First Tier,First Tier,25 years 06 days,10 Months 19 Days
+Jamal Lewis,Left-Back,Northern Ireland,20/21,€11.00m,€16.50m,Norwich City,Newcastle United,Championship,Premier League,Second Tier,First Tier,22 years 07 months 14 days,02 Years 09 Months 22 Days
+Karlan Grant,Centre-Forward,England,20/21,€8.00m,€16.50m,Huddersfield Town,West Bromwich Albion,Championship,Premier League,Second Tier,First Tier,23 years 27 days,01 Years 08 Months 15 Days
+Pervis Estupiñán,Left-Back,Ecuador,20/21,€15.00m,€16.40m,Watford FC,Villarreal CF,Championship,LaLiga,Second Tier,First Tier,22 years 07 months 26 days,09 Months 14 Days
+Tomas Soucek,Defensive Midfield,Czech Republic,20/21,€12.00m,€16.20m,SK Slavia Prague,West Ham United,Fortuna Liga,Premier League,First Tier,First Tier,25 years 05 months 00 days,03 Years 11 Months 03 Days
+Paulinho,Centre-Forward,Portugal,20/21,€15.00m,€16.00m,SC Braga,Sporting CP,Liga NOS,Liga NOS,First Tier,First Tier,28 years 02 months 22 days,02 Years 04 Months 30 Days
+Pity Martínez,Attacking Midfield,Argentina,20/21,€12.00m,€16.00m,Atlanta United FC,Al-Nassr FC,Major League Soccer,Saudi Professional League,First Tier,First Tier,27 years 02 months 25 days,
+Morgan Sanson,Central Midfield,France,20/21,€20.00m,€15.80m,Olympique Marseille,Aston Villa,Ligue 1,Premier League,First Tier,First Tier,26 years 05 months 08 days,01 Years 05 Months 04 Days
+Antony,Right Winger,Brazil,20/21,€18.00m,€15.75m,São Paulo Futebol Clube,Ajax Amsterdam,Campeonato Brasileiro Série A,Eredivisie,First Tier,First Tier,20 years 04 months 07 days,04 Years 02 Months 30 Days
+Matty Cash,Right-Back,Poland,20/21,€4.80m,€15.75m,Nottingham Forest,Aston Villa,Championship,Premier League,Second Tier,First Tier,23 years 27 days,02 Years 09 Months 27 Days
+Alex Telles,Left-Back,Brazil,20/21,€40.00m,€15.00m,FC Porto,Manchester United,Liga NOS,Premier League,First Tier,First Tier,27 years 09 months 20 days,08 Months 25 Days
+Chris Smalling,Centre-Back,England,20/21,€20.00m,€15.00m,Manchester United,AS Roma,Premier League,Serie A,First Tier,First Tier,30 years 10 months 13 days,01 Years 08 Months 25 Days
+Geoffrey Kondogbia,Defensive Midfield,Central African Republic,20/21,€17.50m,€15.00m,Valencia CF,Atlético de Madrid,LaLiga,LaLiga,First Tier,First Tier,27 years 08 months 19 days,01 Years 07 Months 27 Days
+Luca Waldschmidt,Second Striker,Germany,20/21,€16.00m,€15.00m,SC Freiburg,SL Benfica,Bundesliga,Liga NOS,First Tier,First Tier,24 years 02 months 26 days,01 Years 10 Months 16 Days
+Alfred Duncan,Central Midfield,Ghana,20/21,€15.00m,€15.00m,US Sassuolo,ACF Fiorentina,Serie A,Serie A,First Tier,First Tier,27 years 05 months 22 days,01 Years 09 Months 29 Days
+Nicolás Otamendi,Centre-Back,Argentina,20/21,€14.50m,€15.00m,Manchester City,SL Benfica,Premier League,Liga NOS,First Tier,First Tier,32 years 07 months 17 days,01 Years 09 Months 01 Days
+Marko Rog,Central Midfield,Croatia,20/21,€13.00m,€15.00m,SSC Napoli,Cagliari Calcio,Serie A,Serie A,First Tier,First Tier,25 years 01 month 13 days,09 Months 29 Days
+Rolando Mandragora,Defensive Midfield,Italy,20/21,€12.00m,€15.00m,Udinese Calcio,Juventus FC,Serie A,Serie A,First Tier,First Tier,23 years 03 months 04 days,02 Years 08 Months 27 Days
+Jhon Córdoba,Centre-Forward,Colombia,20/21,€12.00m,€15.00m,1.FC Köln,Hertha BSC,Bundesliga,Bundesliga,First Tier,First Tier,27 years 04 months 04 days,09 Months 15 Days
+Serhou Guirassy,Centre-Forward,Guinea,20/21,€8.00m,€15.00m,Amiens SC,Stade Rennais FC,Ligue 2,Ligue 1,Second Tier,First Tier,24 years 05 months 15 days,01 Years 10 Months 03 Days
+Mario Pasalic,Attacking Midfield,Croatia,20/21,€25.00m,€14.50m,Chelsea FC,Atalanta BC,Premier League,Serie A,First Tier,First Tier,25 years 06 months 23 days,01 Years 09 Months 29 Days
+Aleksey Miranchuk,Attacking Midfield,Russia,20/21,€18.00m,€14.50m,Lokomotiv Moscow,Atalanta BC,Premier Liga,Serie A,First Tier,First Tier,24 years 10 months 18 days,09 Months 26 Days
+Pedro,Centre-Forward,Brazil,20/21,€12.00m,€14.00m,ACF Fiorentina,CR Flamengo,Serie A,Campeonato Brasileiro Série A,First Tier,First Tier,23 years 06 months 12 days,03 Years 05 Months 29 Days
+Joakim Maehle,Left-Back,Denmark,20/21,€11.00m,€13.70m,KRC Genk,Atalanta BC,Jupiler Pro League,Serie A,First Tier,First Tier,23 years 07 months 15 days,02 Years 05 Months 26 Days
+Óscar Rodríguez,Attacking Midfield,Spain,20/21,€15.00m,€13.50m,Real Madrid,Sevilla FC,LaLiga,LaLiga,First Tier,First Tier,22 years 02 months 01 day,02 Years 10 Months 01 Days
+Grady Diangana,Right Winger,England,20/21,€4.50m,€13.50m,West Ham United,West Bromwich Albion,Premier League,Premier League,First Tier,First Tier,22 years 04 months 16 days,04 Years 09 Months 26 Days
+Kyle Walker-Peters,Right-Back,England,20/21,€8.00m,€13.30m,Tottenham Hotspur,Southampton FC,Premier League,Premier League,First Tier,First Tier,23 years 03 months 29 days,02 Years 10 Months 19 Days
+Robin Koch,Centre-Back,Germany,20/21,€17.00m,€13.00m,SC Freiburg,Leeds United,Bundesliga,Premier League,First Tier,First Tier,24 years 01 month 12 days,10 Months 01 Days
+Giovanni Simeone,Centre-Forward,Argentina,20/21,€15.00m,€13.00m,ACF Fiorentina,Cagliari Calcio,Serie A,Serie A,First Tier,First Tier,25 years 01 month 27 days,02 Years 09 Months 29 Days
+Axel Disasi,Centre-Back,France,20/21,€13.50m,€13.00m,Stade Reims,AS Monaco,Ligue 1,Ligue 1,First Tier,First Tier,22 years 04 months 27 days,10 Months 23 Days
+Lucas Martínez Quarta,Centre-Back,Argentina,20/21,€10.00m,€13.00m,CA River Plate,ACF Fiorentina,Copa de la Liga Profesional de Fútbol,Serie A,League Cup,First Tier,24 years 04 months 25 days,08 Months 25 Days
+Carles Pérez,Right Winger,Spain,20/21,€9.00m,€13.00m,FC Barcelona,AS Roma,LaLiga,Serie A,First Tier,First Tier,22 years 06 months 16 days,01 Years 09 Months 29 Days
+Konstantinos Tsimikas,Left-Back,Greece,20/21,€9.00m,€13.00m,Olympiacos Piraeus,Liverpool FC,Super League 1,Premier League,First Tier,First Tier,24 years 02 months 29 days,01 Years 10 Months 20 Days
+Dennis Man,Right Winger,Romania,20/21,€6.50m,€13.00m,FCSB,Parma Calcio 1913,Liga 1,Serie A,First Tier,First Tier,22 years 05 months 03 days,03 Years 05 Months 01 Days
+Brenden Aaronson,Attacking Midfield,United States,20/21,€10.00m,€12.70m,Philadelphia Union,Red Bull Salzburg,Major League Soccer,Bundesliga,First Tier,First Tier,20 years 02 months 10 days,
+Jean-Daniel Akpa Akpro,Central Midfield,Cote d'Ivoire,20/21,€600k,€12.70m,US Salernitana 1919,SS Lazio,Serie B,Serie A,Second Tier,First Tier,27 years 11 months 07 days,09 Months 12 Days
+Federico Chiesa,Left Winger,Italy,20/21,€48.00m,Loan fee:€12.60m,ACF Fiorentina,Juventus FC,Serie A,Serie A,First Tier,First Tier,22 years 11 months 10 days,01 Years 08 Months 25 Days
+Joe Rodon,Centre-Back,Wales,20/21,€7.00m,€12.10m,Swansea City,Tottenham Hotspur,Championship,Premier League,Second Tier,First Tier,22 years 11 months 24 days,01 Years 08 Months 14 Days
+Ibrahima Diallo,Defensive Midfield,France,20/21,€15.00m,€12.00m,Stade Brestois 29,Southampton FC,Ligue 1,Premier League,First Tier,First Tier,21 years 06 months 26 days,02 Years 08 Months 26 Days
+Dejan Lovren,Centre-Back,Croatia,20/21,€12.00m,€12.00m,Liverpool FC,Zenit St. Petersburg,Premier League,Premier Liga,First Tier,First Tier,31 years 27 days,10 Months 29 Days
+Oussama Idrissi,Left Winger,Morocco,20/21,€12.00m,€12.00m,AZ Alkmaar,Sevilla FC,Eredivisie,LaLiga,First Tier,First Tier,24 years 07 months 09 days,01 Years 08 Months 25 Days
+Mohammed Salisu,Centre-Back,Ghana,20/21,€12.00m,€12.00m,Real Valladolid CF,Southampton FC,LaLiga,Premier League,First Tier,First Tier,21 years 03 months 26 days,01 Years 10 Months 18 Days
+Martin Terrier,Left Winger,France,20/21,€10.50m,€12.00m,Olympique Lyon,Stade Rennais FC,Ligue 1,Ligue 1,First Tier,First Tier,23 years 04 months 02 days,01 Years 11 Months 24 Days
+Hee-chan Hwang,Centre-Forward,"Korea, South",20/21,€10.00m,€12.00m,Red Bull Salzburg,RB Leipzig,Bundesliga,Bundesliga,First Tier,First Tier,24 years 05 months 19 days,11 Months 15 Days
+Álex Berenguer,Left Winger,Spain,20/21,€6.00m,€12.00m,Torino FC,Athletic Bilbao,Serie A,LaLiga,First Tier,First Tier,25 years 02 months 28 days,01 Years 08 Months 28 Days
+Manolo Portanova,Central Midfield,Italy,20/21,€1.00m,€12.00m,Juventus FC,Genoa CFC,Serie A,Serie A,First Tier,First Tier,20 years 07 months 26 days,02 Years 05 Months 02 Days
+Brenner,Centre-Forward,Brazil,20/21,€1.30m,€11.82m,São Paulo Futebol Clube,FC Cincinnati,Campeonato Brasileiro Série A,Major League Soccer,First Tier,First Tier,21 years 20 days,01 Years 10 Months 26 Days
+Marc Cucurella,Left-Back,Spain,20/21,€18.00m,€11.80m,FC Barcelona,Getafe CF,LaLiga,LaLiga,First Tier,First Tier,21 years 11 months 09 days,11 Months 30 Days
+Davy Klaassen,Attacking Midfield,Netherlands,20/21,€12.00m,€11.70m,SV Werder Bremen,Ajax Amsterdam,Bundesliga,Eredivisie,First Tier,First Tier,27 years 07 months 14 days,01 Years 08 Months 25 Days
+Anthony Knockaert,Right Winger,France,20/21,€6.50m,€11.70m,Brighton & Hove Albion,Fulham FC,Premier League,Premier League,First Tier,First Tier,28 years 08 months 07 days,01 Years 11 Months 03 Days
+Karl Toko Ekambi,Left Winger,Cameroon,20/21,€14.00m,€11.50m,Villarreal CF,Olympique Lyon,LaLiga,Ligue 1,First Tier,First Tier,27 years 09 months 17 days,02 Years 11 Months 30 Days
+Chidera Ejuke,Left Winger,Nigeria,20/21,€5.50m,€11.50m,SC Heerenveen,CSKA Moscow,Eredivisie,Premier Liga,First Tier,First Tier,22 years 07 months 26 days,02 Years 10 Months 02 Days
+Marcos Acuña,Left-Back,Argentina,20/21,€12.00m,€11.25m,Sporting CP,Sevilla FC,Liga NOS,LaLiga,First Tier,First Tier,28 years 10 months 17 days,02 Years 09 Months 16 Days
+Kevin Volland,Centre-Forward,Germany,20/21,€28.00m,€11.00m,Bayer 04 Leverkusen,AS Monaco,Bundesliga,Ligue 1,First Tier,First Tier,28 years 01 month 03 days,09 Months 28 Days
+Christian Kouamé,Centre-Forward,Cote d'Ivoire,20/21,€17.50m,€11.00m,Genoa CFC,ACF Fiorentina,Serie A,Serie A,First Tier,First Tier,22 years 08 months 26 days,02 Years 09 Months 29 Days
+Pol Lirola,Right-Back,Spain,20/21,€10.00m,€11.00m,US Sassuolo,ACF Fiorentina,Serie A,Serie A,First Tier,First Tier,23 years 19 days,09 Months 29 Days
+Grégoire Defrel,Centre-Forward,France,20/21,€8.00m,€11.00m,AS Roma,US Sassuolo,Serie A,Serie A,First Tier,First Tier,29 years 02 months 15 days,01 Years 09 Months 29 Days
+Kevin Bonifazi,Centre-Back,Italy,20/21,€4.00m,€11.00m,Torino FC,SPAL,Serie A,Serie B,First Tier,Second Tier,24 years 03 months 13 days,03 Years 09 Months 29 Days
+Jeremie Frimpong,Right-Back,Netherlands,20/21,€4.00m,€11.00m,Celtic FC,Bayer 04 Leverkusen,Scottish Premiership,Bundesliga,First Tier,First Tier,20 years 01 month 17 days,02 Years 05 Months 03 Days
+Jakub Moder,Central Midfield,Poland,20/21,€3.00m,€11.00m,Lech Poznan,Brighton & Hove Albion,PKO Ekstraklasa,Premier League,First Tier,First Tier,21 years 05 months 27 days,02 Years 08 Months 26 Days
+Félix Correia,Left Winger,Portugal,20/21,€1.00m,€10.50m,Manchester City U23,Juventus U23,Premier League 2,Serie C - Girone A,Reserve league,Third Tier,19 years 07 months 10 days,03 Years 09 Months 29 Days
+Habib Diallo,Centre-Forward,Senegal,20/21,€12.00m,€10.00m,FC Metz,RC Strasbourg Alsace,Ligue 1,Ligue 1,First Tier,First Tier,25 years 03 months 17 days,01 Years 08 Months 25 Days
+Carlos Fernández,Centre-Forward,Spain,20/21,€9.00m,€10.00m,Sevilla FC,Real Sociedad,LaLiga,LaLiga,First Tier,First Tier,24 years 08 months 02 days,01 Years 05 Months 06 Days
+Ridle Baku,Right-Back,Germany,20/21,€7.00m,€10.00m,1.FSV Mainz 05,VfL Wolfsburg,Bundesliga,Bundesliga,First Tier,First Tier,22 years 05 months 23 days,01 Years 08 Months 30 Days
+Baptiste Santamaria,Defensive Midfield,France,20/21,€7.00m,€10.00m,Angers SCO,SC Freiburg,Ligue 1,Bundesliga,First Tier,First Tier,25 years 06 months 08 days,01 Years 09 Months 13 Days
+Alfred Gomis,Goalkeeper,Senegal,20/21,€2.40m,€10.00m,Dijon FCO,Stade Rennais FC,Ligue 1,Ligue 1,First Tier,First Tier,27 years 24 days,03 Years 09 Months 01 Days
+Pablo Moreno,Centre-Forward,Spain,20/21,-,€10.00m,Juventus Primavera,Manchester City U23,Primavera 1,Premier League 2,Youth league,Reserve league,18 years 01 month 28 days,11 Months 30 Days
+Ki-Jana Hoever,Right-Back,Netherlands,20/21,€3.60m,€9.80m,Liverpool FC U23,Wolverhampton Wanderers,Premier League 2,Premier League,Reserve league,First Tier,18 years 08 months 01 day,
+Vlad Chiriches,Centre-Back,Romania,20/21,€5.00m,€9.50m,SSC Napoli,US Sassuolo,Serie A,Serie A,First Tier,First Tier,30 years 09 months 18 days,01 Years 09 Months 29 Days
+Valentin Mihaila,Left Winger,Romania,20/21,€2.50m,€9.10m,Universitatea Craiova,Parma Calcio 1913,Liga 1,Serie A,First Tier,First Tier,20 years 08 months 03 days,08 Months 25 Days
+Luis Suárez,Centre-Forward,Uruguay,20/21,€28.00m,€9.00m,FC Barcelona,Atlético de Madrid,LaLiga,LaLiga,First Tier,First Tier,33 years 05 months 07 days,11 Months 30 Days
+Marc Roca,Defensive Midfield,Spain,20/21,€16.00m,€9.00m,RCD Espanyol Barcelona,Bayern Munich,LaLiga2,Bundesliga,Second Tier,First Tier,23 years 10 months 08 days,
+Mohammed Kudus,Attacking Midfield,Ghana,20/21,€9.00m,€9.00m,FC Nordsjaelland,Ajax Amsterdam,Superligaen,Eredivisie,First Tier,First Tier,19 years 11 months 29 days,
+Enes Ünal,Centre-Forward,Turkey,20/21,€8.00m,€9.00m,Villarreal CF,Getafe CF,LaLiga,LaLiga,First Tier,First Tier,23 years 03 months 02 days,01 Years 10 Months 18 Days
+Eldor Shomurodov,Centre-Forward,Uzbekistan,20/21,€6.50m,€9.00m,FK Rostov,Genoa CFC,Premier Liga,Serie A,First Tier,First Tier,25 years 03 months 02 days,03 Years 08 Months 30 Days
+Umar Sadiq,Centre-Forward,Nigeria,20/21,€6.00m,€9.00m,FK Partizan Belgrade,UD Almería,Super liga Srbije,LaLiga2,First Tier,Second Tier,23 years 08 months 03 days,02 Years 02 Months 26 Days
+Manu Koné,Central Midfield,France,20/21,€5.00m,€9.00m,FC Toulouse,Borussia Mönchengladbach,Ligue 2,Bundesliga,Second Tier,First Tier,19 years 08 months 04 days,01 Years 05 Months 09 Days
+Adrian Grbic,Centre-Forward,Austria,20/21,€2.00m,€9.00m,Clermont Foot 63,FC Lorient,Ligue 2,Ligue 1,Second Tier,First Tier,23 years 11 months 04 days,01 Years 11 Months 22 Days
+Evanilson,Centre-Forward,Brazil,20/21,€7.50m,€8.80m,Tombense Futebol Clube (MG),FC Porto,Campeonato Brasileiro Série C,Liga NOS,Third Tier,First Tier,20 years 11 months 03 days,
+Quincy Promes,Left Winger,Netherlands,20/21,€15.00m,€8.50m,Ajax Amsterdam,Spartak Moscow,Eredivisie,Premier Liga,First Tier,First Tier,29 years 01 month 20 days,03 Years 04 Months 06 Days
+Adolfo Gaich,Centre-Forward,Argentina,20/21,€11.00m,€8.50m,CA San Lorenzo de Almagro,CSKA Moscow,Copa de la Liga Profesional de Fútbol,Premier Liga,League Cup,First Tier,21 years 05 months 10 days,10 Months 25 Days
+Seko Fofana,Central Midfield,Cote d'Ivoire,20/21,€9.50m,€8.50m,Udinese Calcio,RC Lens,Serie A,Ligue 1,First Tier,First Tier,25 years 03 months 11 days,01 Years 10 Months 12 Days
+Filip Stevanovic,Left Winger,Serbia,20/21,€8.00m,€8.50m,FK Partizan Belgrade,Manchester City U23,Super liga Srbije,Premier League 2,First Tier,Reserve league,18 years 03 months 07 days,01 Years 05 Months 29 Days
+Nikola Moro,Defensive Midfield,Croatia,20/21,€6.00m,€8.50m,GNK Dinamo Zagreb,Dynamo Moscow,1.HNL,Premier Liga,First Tier,First Tier,22 years 05 months 05 days,04 Years 05 Months 03 Days
+Facundo Pellistri,Right Winger,Uruguay,20/21,€1.80m,€8.50m,CA Peñarol,Manchester United,Primera Division Clausura,Premier League,First Tier,First Tier,18 years 09 months 15 days,02 Years 02 Months 26 Days
+Alberto Grassi,Central Midfield,Italy,20/21,€5.50m,€8.45m,SSC Napoli,Parma Calcio 1913,Serie A,Serie A,First Tier,First Tier,25 years 05 months 25 days,01 Years 09 Months 29 Days
+Matheus Pereira,Attacking Midfield,Brazil,20/21,€9.50m,€8.25m,Sporting CP,West Bromwich Albion,Liga NOS,Premier League,First Tier,First Tier,24 years 03 months 12 days,01 Years 10 Months 13 Days
+Bouna Sarr,Right-Back,Senegal,20/21,€9.00m,€8.00m,Olympique Marseille,Bayern Munich,Ligue 1,Bundesliga,First Tier,First Tier,28 years 08 months 04 days,01 Years 08 Months 25 Days
+Yann Karamoh,Left Winger,Cote d'Ivoire,20/21,€7.50m,€8.00m,Inter Milan,Parma Calcio 1913,Serie A,Serie A,First Tier,First Tier,22 years 01 month 24 days,09 Months 29 Days
+Sam Lammers,Centre-Forward,Netherlands,20/21,€7.00m,€8.00m,PSV Eindhoven,Atalanta BC,Eredivisie,Serie A,First Tier,First Tier,23 years 04 months 23 days,09 Months 08 Days
+Mohamed Fares,Left Midfield,Algeria,20/21,€7.00m,€8.00m,SPAL,SS Lazio,Serie B,Serie A,Second Tier,First Tier,24 years 07 months 16 days,01 Years 08 Months 30 Days
+Luis Henrique,Left Winger,Brazil,20/21,€5.00m,€8.00m,Três Passos Atlético Clube,Olympique Marseille,-,Ligue 1,-,First Tier,18 years 09 months 11 days,
+Abel Ruiz,Centre-Forward,Spain,20/21,€4.50m,€8.00m,FC Barcelona B,SC Braga,Segunda División B - Aufstiegsphase,Liga NOS,Play-Offs,First Tier,20 years 05 months 03 days,11 Months 30 Days
+Terem Moffi,Centre-Forward,Nigeria,20/21,€3.00m,€8.00m,KV Kortrijk,FC Lorient,Jupiler Pro League,Ligue 1,First Tier,First Tier,21 years 04 months 06 days,02 Years 08 Months 30 Days
+Marley Aké,Left Winger,France,20/21,€2.50m,€8.00m,Olympique Marseille,Juventus U23,Ligue 1,Serie C - Girone A,First Tier,Third Tier,20 years 23 days,03 Years 05 Months 02 Days
+Bruno Fuchs,Centre-Back,Brazil,20/21,€1.80m,€8.00m,Sport Club Internacional,CSKA Moscow,Campeonato Brasileiro Série A,Premier Liga,First Tier,First Tier,21 years 04 months 23 days,03 Years 04 Months 07 Days
+Sven Botman,Centre-Back,Netherlands,20/21,€1.30m,€8.00m,Ajax Amsterdam U21,LOSC Lille,Keuken Kampioen Divisie,Ligue 1,Second Tier,First Tier,20 years 06 months 19 days,02 Years 10 Months 30 Days
+Caio Henrique,Left-Back,Brazil,20/21,€1.20m,€8.00m,Atlético de Madrid,AS Monaco,LaLiga,Ligue 1,First Tier,First Tier,23 years 27 days,02 Years 10 Months 03 Days
+Robson Bambu,Centre-Back,Brazil,20/21,€800k,€8.00m,Club Athletico Paranaense,OGC Nice,Campeonato Brasileiro Série A,Ligue 1,First Tier,First Tier,22 years 07 months 19 days,02 Years 04 Months 20 Days
+Elia Petrelli,Centre-Forward,Italy,20/21,€250k,€8.00m,Juventus U23,Genoa CFC,Serie C - Girone A,Serie A,Third Tier,First Tier,19 years 05 months 13 days,02 Years 05 Months 02 Days
+Franco Tongya,Right Winger,Italy,20/21,-,€8.00m,Juventus U23,Olympique de Marseille B,Serie C - Girone A,Championnat National 2 - Groupe C,Third Tier,Fourth Tier,18 years 10 months 15 days,05 Months 02 Days
+Philipp Max,Left-Back,Germany,20/21,€15.00m,€7.70m,FC Augsburg,PSV Eindhoven,Bundesliga,Eredivisie,First Tier,First Tier,26 years 11 months 03 days,01 Years 09 Months 28 Days
+Alexis Saelemaekers,Right Winger,Belgium,20/21,€8.00m,€7.65m,RSC Anderlecht,AC Milan,Jupiler Pro League,Serie A,First Tier,First Tier,21 years 02 months 05 days,01 Years 09 Months 29 Days
+Matheus Pereira,Central Midfield,Brazil,20/21,€1.30m,€7.60m,Juventus U23,FC Barcelona B,Serie C - Girone A,Segunda División B - Aufstiegsphase,Third Tier,Play-Offs,22 years 05 months 10 days,01 Years 10 Months 26 Days
+Karol Linetty,Central Midfield,Poland,20/21,€10.00m,€7.50m,UC Sampdoria,Torino FC,Serie A,Serie A,First Tier,First Tier,25 years 06 months 30 days,09 Months 29 Days
+Paul Bernardoni,Goalkeeper,France,20/21,€5.50m,€7.50m,FC Girondins Bordeaux,Angers SCO,Ligue 1,Ligue 1,First Tier,First Tier,23 years 02 months 13 days,02 Years 11 Months 30 Days
+Talles Magno,Left Winger,Brazil,20/21,€8.00m,€7.27m,Clube de Regatas Vasco da Gama,New York City FC,Campeonato Brasileiro Série B,Major League Soccer,Second Tier,First Tier,18 years 10 months 22 days,01 Years 07 Months 13 Days
+Gregor Kobel,Goalkeeper,Switzerland,20/21,€4.00m,€7.20m,TSG 1899 Hoffenheim,VfB Stuttgart,Bundesliga,Bundesliga,First Tier,First Tier,22 years 07 months 22 days,11 Months 02 Days
+Francis Coquelin,Defensive Midfield,France,20/21,€14.00m,€7.10m,Valencia CF,Villarreal CF,LaLiga,LaLiga,First Tier,First Tier,29 years 02 months 30 days,01 Years 10 Months 18 Days
+Dudu,Left Winger,Brazil,20/21,€12.00m,Loan fee:€7.00m,Sociedade Esportiva Palmeiras,Al-Duhail SC,Campeonato Brasileiro Série A,Qatar Stars League,First Tier,First Tier,28 years 06 months 27 days,03 Years 04 Months 28 Days
+Irfan Can Kahveci,Right Winger,Turkey,20/21,€10.00m,€7.00m,Basaksehir FK,Fenerbahce,Süper Lig,Süper Lig,First Tier,First Tier,25 years 06 months 16 days,03 Years 04 Months 30 Days
+Ibrahim Sangaré,Defensive Midfield,Cote d'Ivoire,20/21,€9.50m,€7.00m,FC Toulouse,PSV Eindhoven,Ligue 2,Eredivisie,Second Tier,First Tier,22 years 09 months 26 days,09 Months 02 Days
+Luis Suárez,Centre-Forward,Colombia,20/21,€7.50m,€7.00m,Watford FC,Granada CF,Championship,LaLiga,Second Tier,First Tier,22 years 10 months 00 days,
+Alexander Schwolow,Goalkeeper,Germany,20/21,€7.00m,€7.00m,SC Freiburg,Hertha BSC,Bundesliga,Bundesliga,First Tier,First Tier,28 years 02 months 02 days,01 Years 10 Months 26 Days
+Ondrej Duda,Attacking Midfield,Slovakia,20/21,€7.00m,€7.00m,Hertha BSC,1.FC Köln,Bundesliga,Bundesliga,First Tier,First Tier,25 years 09 months 11 days,02 Years 09 Months 14 Days
+Felix Uduokhai,Centre-Back,Germany,20/21,€6.80m,€7.00m,VfL Wolfsburg,FC Augsburg,Bundesliga,Bundesliga,First Tier,First Tier,22 years 09 months 22 days,01 Years 11 Months 30 Days
+Leonardo Bittencourt,Attacking Midfield,Germany,20/21,€4.80m,€7.00m,TSG 1899 Hoffenheim,SV Werder Bremen,Bundesliga,Bundesliga,First Tier,First Tier,26 years 06 months 26 days,02 Years 11 Months 15 Days
+Mirko Maric,Centre-Forward,Croatia,20/21,€4.50m,€7.00m,NK Osijek,AC Monza,1.HNL,Serie B,First Tier,Second Tier,25 years 03 months 16 days,02 Years 09 Months 29 Days
+Jordan Lotomba,Right-Back,Switzerland,20/21,€4.00m,€7.00m,BSC Young Boys,OGC Nice,Super League,Ligue 1,First Tier,First Tier,21 years 10 months 05 days,10 Months 27 Days
+Amine Gouiri,Centre-Forward,France,20/21,€4.00m,€7.00m,Olympique Lyon,OGC Nice,Ligue 1,Ligue 1,First Tier,First Tier,20 years 04 months 15 days,01 Years 11 Months 30 Days
+Francesco Cassata,Central Midfield,Italy,20/21,€2.50m,€7.00m,US Sassuolo,Genoa CFC,Serie A,Serie A,First Tier,First Tier,23 years 01 month 16 days,01 Years 09 Months 29 Days
+Simone Muratore,Central Midfield,Italy,20/21,€500k,€7.00m,Juventus FC,Atalanta BC,Serie A,Serie A,First Tier,First Tier,22 years 03 months 02 days,01 Years 09 Months 29 Days
+Ciro Palmieri,Second Striker,Italy,20/21,€75k,€7.00m,Napoli Primavera,LOSC Lille B,Primavera 2b,Championnat National 3 - Hauts-de-France,Youth league,Fifth Tier,20 years 07 months 00 days,09 Months 29 Days
+Maxime Busi,Right-Back,Belgium,20/21,€2.50m,€6.90m,RSC Charleroi,Parma Calcio 1913,Jupiler Pro League,Serie A,First Tier,First Tier,20 years 11 months 21 days,04 Years 08 Months 25 Days
+Mikkel Damsgaard,Left Winger,Denmark,20/21,€6.50m,€6.75m,FC Nordsjaelland,UC Sampdoria,Superligaen,Serie A,First Tier,First Tier,20 years 01 month 29 days,01 Years 09 Months 29 Days
+Ante Rebic,Left Winger,Croatia,20/21,€32.00m,€6.70m,Eintracht Frankfurt,AC Milan,Bundesliga,Serie A,First Tier,First Tier,26 years 11 months 22 days,01 Years 09 Months 18 Days
+Sebastian Andersson,Centre-Forward,Sweden,20/21,€7.00m,€6.50m,1.FC Union Berlin,1.FC Köln,Bundesliga,Bundesliga,First Tier,First Tier,29 years 02 months 00 days,01 Years 09 Months 15 Days
+Pedro Gonçalves,Left Winger,Portugal,20/21,€7.00m,€6.50m,FC Famalicão,Sporting CP,Liga NOS,Liga NOS,First Tier,First Tier,22 years 01 month 21 days,03 Years 10 Months 12 Days
+Nahuel Bustos,Centre-Forward,Argentina,20/21,€6.70m,€6.50m,Club Atlético Talleres,Manchester City,Copa de la Liga Profesional de Fútbol,Premier League,League Cup,First Tier,22 years 03 months 00 days,08 Months 26 Days
+Antonio Sanabria,Centre-Forward,Paraguay,20/21,€6.50m,€6.50m,Real Betis Balompié,Torino FC,LaLiga,Serie A,First Tier,First Tier,24 years 10 months 27 days,01 Years 04 Months 30 Days
+Oliver Burke,Centre-Forward,Scotland,20/21,€4.80m,€6.50m,West Bromwich Albion,Sheffield United,Premier League,Premier League,First Tier,First Tier,23 years 05 months 02 days,01 Years 09 Months 21 Days
+Illan Meslier,Goalkeeper,France,20/21,€4.50m,€6.50m,FC Lorient,Leeds United,Ligue 1,Premier League,First Tier,First Tier,20 years 04 months 25 days,01 Years 11 Months 03 Days
+Lucas Veríssimo,Centre-Back,Brazil,20/21,€4.00m,€6.50m,Santos FC,SL Benfica,Campeonato Brasileiro Série A,Liga NOS,First Tier,First Tier,25 years 06 months 29 days,04 Years 04 Months 08 Days
+Harrison Reed,Central Midfield,England,20/21,€2.40m,€6.50m,Southampton FC,Fulham FC,Premier League,Premier League,First Tier,First Tier,25 years 07 months 03 days,10 Months 00 Days
+Hernani,Central Midfield,Brazil,20/21,€5.50m,€6.47m,Zenit St. Petersburg,Parma Calcio 1913,Premier Liga,Serie A,First Tier,First Tier,26 years 05 months 05 days,09 Months 29 Days
+Papu Gómez,Left Winger,Argentina,20/21,€15.00m,€6.40m,Atalanta BC,Sevilla FC,Serie A,LaLiga,First Tier,First Tier,32 years 11 months 11 days,01 Years 05 Months 04 Days
+Lucas Robertone,Central Midfield,Argentina,20/21,€6.50m,€6.40m,CA Vélez Sarsfield,UD Almería,Copa de la Liga Profesional de Fútbol,LaLiga2,League Cup,Second Tier,23 years 06 months 13 days,08 Months 30 Days
+Simon Sohm,Defensive Midfield,Switzerland,20/21,€1.10m,€6.40m,FC Zürich,Parma Calcio 1913,Super League,Serie A,First Tier,First Tier,19 years 05 months 23 days,02 Years 08 Months 26 Days
+Marcelino Moreno,Attacking Midfield,Argentina,20/21,€4.00m,€6.36m,Club Atlético Lanús,Atlanta United FC,Copa de la Liga Profesional de Fútbol,Major League Soccer,League Cup,First Tier,25 years 02 months 28 days,09 Months 08 Days
+Stephy Mavididi,Left Winger,England,20/21,€3.60m,€6.30m,Juventus U23,Montpellier HSC,Serie C - Girone A,Ligue 1,Third Tier,First Tier,22 years 01 month 00 days,01 Years 11 Months 30 Days
+Sergio Rico,Goalkeeper,Spain,20/21,€8.00m,€6.00m,Sevilla FC,Paris Saint-Germain,LaLiga,Ligue 1,First Tier,First Tier,27 years 04 days,09 Months 25 Days
+Praxedes,Central Midfield,Brazil,20/21,€5.00m,€6.00m,Sport Club Internacional,Red Bull Bragantino,Campeonato Brasileiro Série A,Campeonato Brasileiro Série A,First Tier,First Tier,19 years 04 months 22 days,03 Years 10 Months 00 Days
+Pablo Marí,Centre-Back,Spain,20/21,€4.80m,€6.00m,CR Flamengo,Arsenal FC,Campeonato Brasileiro Série A,Premier League,First Tier,First Tier,26 years 10 months 00 days,02 Years 06 Months 00 Days
+Jonas Omlin,Goalkeeper,Switzerland,20/21,€4.80m,€6.00m,FC Basel 1893,Montpellier HSC,Super League,Ligue 1,First Tier,First Tier,26 years 07 months 05 days,01 Years 10 Months 15 Days
+Guilherme,Defensive Midfield,Brazil,20/21,€4.50m,€6.00m,Olympiacos Piraeus,Al-Sadd SC,Super League 1,Qatar Stars League,First Tier,First Tier,29 years 04 months 26 days,09 Months 30 Days
+Ignatius Ganago,Centre-Forward,Cameroon,20/21,€3.60m,€6.00m,OGC Nice,RC Lens,Ligue 1,Ligue 1,First Tier,First Tier,21 years 04 months 24 days,02 Years 11 Months 20 Days
+Yan Couto,Right-Back,Brazil,20/21,€3.60m,€6.00m,Coritiba Foot Ball Club,Manchester City,Campeonato Brasileiro Série A,Premier League,First Tier,First Tier,18 years 28 days,
+Arthur Cabral,Centre-Forward,Brazil,20/21,€2.70m,€6.00m,Sociedade Esportiva Palmeiras,FC Basel 1893,Campeonato Brasileiro Série A,Super League,First Tier,First Tier,22 years 02 months 06 days,03 Years 06 Months 00 Days
+Núrio Fortuna,Left-Back,Angola,20/21,€2.00m,€6.00m,RSC Charleroi,KAA Gent,Jupiler Pro League,Jupiler Pro League,First Tier,First Tier,25 years 03 months 07 days,03 Years 11 Months 30 Days
+Vladimir Coufal,Right-Back,Czech Republic,20/21,€2.00m,€6.00m,SK Slavia Prague,West Ham United,Fortuna Liga,Premier League,First Tier,First Tier,28 years 01 month 10 days,03 Years 08 Months 28 Days
+Michael Olunga,Centre-Forward,Kenya,20/21,€950k,€6.00m,Kashiwa Reysol,Al-Duhail SC,J1 League,Qatar Stars League,First Tier,First Tier,26 years 09 months 17 days,02 Years 19 Days
+Diego Rosa,Central Midfield,Brazil,20/21,-,€6.00m,Grêmio Foot-Ball Porto Alegrense,Manchester City,Campeonato Brasileiro Série A,Premier League,First Tier,First Tier,18 years 03 months 20 days,01 Years 04 Months 29 Days
+Yeferson Soteldo,Left Winger,Venezuela,20/21,€8.00m,€5.91m,Santos FC,Toronto FC,Campeonato Brasileiro Série A,Major League Soccer,First Tier,First Tier,23 years 09 months 25 days,02 Years 08 Months 07 Days
+Juan Fernando Quintero,Attacking Midfield,Colombia,20/21,€8.00m,€5.90m,CA River Plate,Shenzhen FC,Superliga,Chinese Super League,First Tier,First Tier,28 years 01 month 04 days,10 Months 09 Days
+Giuseppe Pezzella,Left-Back,Italy,20/21,€3.50m,€5.75m,Udinese Calcio,Parma Calcio 1913,Serie A,Serie A,First Tier,First Tier,22 years 09 months 03 days,01 Years 09 Months 29 Days
+Ivan Toney,Centre-Forward,England,20/21,€400k,€5.60m,Peterborough United,Brentford FC,League One,Championship,Third Tier,Second Tier,24 years 05 months 16 days,09 Months 29 Days
+Zé Luís,Centre-Forward,Cape Verde,20/21,€8.00m,€5.50m,FC Porto,Lokomotiv Moscow,Liga NOS,Premier Liga,First Tier,First Tier,29 years 08 months 12 days,02 Years 08 Months 24 Days
+François Kamano,Left Winger,Guinea,20/21,€8.00m,€5.50m,FC Girondins Bordeaux,Lokomotiv Moscow,Ligue 1,Premier Liga,First Tier,First Tier,24 years 03 months 15 days,10 Months 13 Days
+Michal Karbownik,Left-Back,Poland,20/21,€6.00m,€5.50m,Legia Warszawa,Brighton & Hove Albion,PKO Ekstraklasa,Premier League,First Tier,First Tier,19 years 06 months 21 days,03 Years 08 Months 26 Days
+Albian Ajeti,Centre-Forward,Switzerland,20/21,€4.80m,€5.50m,West Ham United,Celtic FC,Premier League,Scottish Premiership,First Tier,First Tier,23 years 05 months 18 days,02 Years 10 Months 17 Days
+Harry Arter,Central Midfield,Ireland,20/21,€3.50m,€5.50m,AFC Bournemouth,Nottingham Forest,Championship,Championship,Second Tier,Second Tier,30 years 08 months 25 days,09 Months 08 Days
+Mark McKenzie,Centre-Back,United States,20/21,€4.00m,€5.45m,Philadelphia Union,KRC Genk,Major League Soccer,Jupiler Pro League,First Tier,First Tier,21 years 10 months 13 days,01 Years 11 Months 24 Days
+Tiquinho Soares,Centre-Forward,Brazil,20/21,€9.00m,€5.40m,FC Porto,Tianjin Jinmen Tiger,Liga NOS,Chinese Super League,First Tier,First Tier,29 years 08 months 11 days,09 Months 02 Days
+Kévin Cabral,Left Winger,France,20/21,€1.80m,€5.40m,Valenciennes FC,Los Angeles Galaxy,Ligue 2,Major League Soccer,Second Tier,First Tier,21 years 08 months 29 days,03 Years 02 Months 22 Days
+Matías Palacios,Attacking Midfield,Argentina,20/21,€8.00m,€5.23m,CA San Lorenzo de Almagro,FC Basel 1893,Superliga,Super League,First Tier,First Tier,18 years 09 months 05 days,02 Years 10 Months 16 Days
+Mërgim Vojvoda,Right-Back,Kosovo,20/21,€4.00m,€5.20m,Standard Liège,Torino FC,Jupiler Pro League,Serie A,First Tier,First Tier,25 years 07 months 00 days,02 Years 09 Months 29 Days
+Orestis Karnezis,Goalkeeper,Greece,20/21,€500k,€5.13m,SSC Napoli,LOSC Lille,Serie A,Ligue 1,First Tier,First Tier,35 years 01 month 24 days,09 Months 26 Days
+Sandro Tonali,Defensive Midfield,Italy,20/21,€32.00m,Loan fee:€5.00m,Brescia Calcio,AC Milan,Serie B,Serie A,Second Tier,First Tier,20 years 04 months 01 day,09 Months 21 Days
+Matías Zaracho,Attacking Midfield,Argentina,20/21,€15.50m,€5.00m,Racing Club,Clube Atlético Mineiro,Copa de la Liga Profesional de Fútbol,Campeonato Brasileiro Série A,League Cup,First Tier,22 years 07 months 11 days,01 Years 08 Months 09 Days
+Gerónimo Rulli,Goalkeeper,Argentina,20/21,€8.00m,€5.00m,Real Sociedad,Villarreal CF,LaLiga,LaLiga,First Tier,First Tier,28 years 03 months 15 days,01 Years 09 Months 26 Days
+Steve Mounié,Centre-Forward,Benin,20/21,€6.50m,€5.00m,Huddersfield Town,Stade Brestois 29,Championship,Ligue 1,Second Tier,First Tier,25 years 11 months 11 days,09 Months 21 Days
+Moses Simon,Left Winger,Nigeria,20/21,€6.50m,€5.00m,Levante UD,FC Nantes,LaLiga,Ligue 1,First Tier,First Tier,24 years 11 months 19 days,02 Years 11 Months 30 Days
+Moisés Caicedo,Defensive Midfield,Ecuador,20/21,€5.00m,€5.00m,Independiente del Valle,Brighton & Hove Albion,LigaPro Serie A Segunda Etapa,Premier League,First Tier,First Tier,19 years 02 months 30 days,03 Years 10 Months 29 Days
+Loïc Mbe Soh,Centre-Back,France,20/21,€4.50m,€5.00m,Paris Saint-Germain B,Nottingham Forest,Championnat National 3 - Paris Île-de-France,Championship,Fifth Tier,Second Tier,19 years 02 months 29 days,
+Kemar Roofe,Centre-Forward,Jamaica,20/21,€4.50m,€5.00m,RSC Anderlecht,Rangers FC,Jupiler Pro League,Scottish Premiership,First Tier,First Tier,27 years 06 months 29 days,01 Years 10 Months 26 Days
+Bruno Tabata,Attacking Midfield,Brazil,20/21,€4.00m,€5.00m,Portimonense SC,Sporting CP,Liga NOS,Liga NOS,First Tier,First Tier,23 years 05 months 29 days,02 Years 09 Months 02 Days

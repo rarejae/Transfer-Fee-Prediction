@@ -6,8 +6,16 @@
 
 
 # Transfer-Fee-Prediction
-Transfer fee prediction model and app
+The objective of this project is to predict the final transfer fee of a footballer (soccer player) before their transfer takes place.
+The model was deployed using Streamlit.
 - [Streamlit App](https://rarejae-transfer-fee-prediction-transfer-fee-app-9y2v7q.streamlit.app/)
+
+
+# Key Findings
+- A player's market value was highly correlated with his final transfer fee.
+- Transfermarkt's market valuations encapsulated most of the features that were analyzed.
+- The remaining time on a player's contract had a slight impact on the final transfer fee.
+
 
 ## Authors
 - [@rarejae](https://github.com/rarejae)

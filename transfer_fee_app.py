@@ -4,9 +4,9 @@ from datetime import date
 
 
 # Load trained model and its metadata
-model = joblib.load('model/finalModel.joblib')
-feature_scaler = joblib.load('model/featureScaler.joblib')
-target_scaler = joblib.load('model/targetScaler.joblib')
+model = joblib.load('model/finalModel.joblib', mmap_mode=None)
+feature_scaler = joblib.load('model/featureScaler.joblib', mmap_mode=None)
+target_scaler = joblib.load('model/targetScaler.joblib', mmap_mode=None)
 
 
 def app():
